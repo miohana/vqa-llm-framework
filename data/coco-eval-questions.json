@@ -1,0 +1,962 @@
+[
+  {
+    "id": 140420,
+    "url": "http://images.cocodataset.org/val2017/000000140420.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A motorcycle is parked on a dirt road in a forest.",
+      "A loan bike sits by itself on a dirt road on a bend in a wooded area",
+      "A motorcycle is parked on a tree lined dirt road.",
+      "Motorcycle on a dirt road by a stream and trees.",
+      "A motorcycle is parked on a gravel road in a forest by a stream."
+    ],
+    "height": 428,
+    "width": 640,
+    "date_captured": "2013-11-15 20:47:52",
+    "question": "Is the bike in a state of disrepair or does it appear ready to ride?"
+  },
+  {
+    "id": 237864,
+    "url": "http://images.cocodataset.org/val2017/000000237864.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A elephant running after a dog on a mud flat.",
+      "Elephant going after a small animal of prey.",
+      "Adult elephant running after a small brown dog. ",
+      "An elephant is chasing a dog around in the dirt.",
+      "an elephant and a dog on a dirt field with trees in the background"
+    ],
+    "height": 425,
+    "width": 640,
+    "date_captured": "2013-11-18 01:07:04",
+    "question": "What appears to be the relationship between the elephant and the dog in the image?"
+  },
+  {
+    "id": 181753,
+    "url": "http://images.cocodataset.org/val2017/000000181753.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A living room with a loveseat and chairs surrounding a table.",
+      "A living room with matching couch, and chairs.",
+      "Couch and chair near window with lacy curtain and a wood table in the center and a table with flowers between the couch and chair.",
+      "A living area with two chairs and a coffee table.",
+      "Old fashion like furniture are sitting near a table in a room. "
+    ],
+    "height": 423,
+    "width": 640,
+    "date_captured": "2013-11-21 21:21:37",
+    "question": "Is the room depicted in the image a part of a home or a commercial space?"
+  },
+  {
+    "id": 252219,
+    "url": "http://images.cocodataset.org/val2017/000000252219.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "a person with a shopping cart on a city street ",
+      "City dwellers walk by as a homeless man begs for cash.",
+      "People walking past a homeless man begging on a city street",
+      "a homeless man holding a cup and standing next to a shopping cart on a street",
+      "People are walking on the street by a homeless person."
+    ],
+    "height": 428,
+    "width": 640,
+    "date_captured": "2013-11-14 22:32:02",
+    "question": "What is the location of the city where the scene is taking place?"
+  },
+  {
+    "id": 108440,
+    "url": "http://images.cocodataset.org/val2017/000000108440.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "A train that is on a rail over a bridge.",
+      "Train moving along raised tracks with mountain in background",
+      "A passenger train moving down the train on a bridge.",
+      "A train on top of an overpass bridge set of train tracks with fields on both side.",
+      "A large long train on a steel track."
+    ],
+    "height": 434,
+    "width": 640,
+    "date_captured": "2013-11-17 03:12:29",
+    "question": "What type of cargo or passengers does the train appear to be carrying?"
+  },
+  {
+    "id": 224337,
+    "url": "http://images.cocodataset.org/val2017/000000224337.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A man holds pizza crust in his mouth.",
+      "A close-up of a man as he holds a piece of bread in his mouth. ",
+      "A man with a piece of food in his mouth.",
+      "A man with a piece of flat bread sticking out of his mouth.",
+      "A man with a pizza hanging out of his mouth"
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-23 03:16:39",
+    "question": "What appears to be the expression or emotion on the man's face as he holds the piece of bread in his mouth?"
+  },
+  {
+    "id": 499109,
+    "url": "http://images.cocodataset.org/val2017/000000499109.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A plate of food that includes pickles and a sandwich.",
+      "A sandwich with a pickle and chips on the side.",
+      "A sandwich is placed next to some vegetables. ",
+      "A sandwich comprised of rustic bread, tomatoes and sprouts on a plate along side a sliced tomato, pickles and chips.",
+      "A sandwich with tomato and pickles on the side. "
+    ],
+    "height": 640,
+    "width": 480,
+    "date_captured": "2013-11-20 14:15:09",
+    "question": "What is the type of cuisine or meal that this sandwich is typically associated with?"
+  },
+  {
+    "id": 28285,
+    "url": "http://images.cocodataset.org/val2017/000000028285.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A white clock tower at the top of a tiled building.",
+      "A small white tower off of a tiled roof.",
+      "A large white and blue clock tower sitting over a roof.",
+      "The view of a top of a buildings spire showing a small clock on it.",
+      "a white steeple near the roof of a neighboring building."
+    ],
+    "height": 425,
+    "width": 640,
+    "date_captured": "2013-11-24 06:27:36",
+    "question": "What is the name or significance of the building with the clock tower?"
+  },
+  {
+    "id": 454750,
+    "url": "http://images.cocodataset.org/val2017/000000454750.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A larger zebra resting its head on a smaller zebra.",
+      "One zebra resting its head on the back of another.",
+      "A Zebra is resting its head on the back of another Zebra.",
+      "two zebras are walking through a field together",
+      "two zebras standing in line with the head of one resting on the back of the other "
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-18 19:50:24",
+    "question": "What appears to be the reason or context for the zebras' unusual head-resting behavior?"
+  },
+  {
+    "id": 412240,
+    "url": "http://images.cocodataset.org/val2017/000000412240.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A dog sitting behind a pair of black shoes.",
+      "A dog sits on the floor next to some shoes. ",
+      "A puppy is sitting behind a pair of shoes.",
+      "a close up of a small dog near a pair of shoes",
+      "A small black dog sits beside a pair of shoes."
+    ],
+    "height": 375,
+    "width": 500,
+    "date_captured": "2013-11-18 09:28:48",
+    "question": "What is the puppy's apparent interest in the pair of shoes?"
+  },
+  {
+    "id": 441286,
+    "url": "http://images.cocodataset.org/val2017/000000441286.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "A person on a surf board riding a wave.",
+      "The surfer is getting ready to ride the wave.",
+      "A person riding waves in a body of water.",
+      "A man surfing the waves on a surfboard in the ocean. ",
+      "Surfer riding large breaking wave on open ocean."
+    ],
+    "height": 493,
+    "width": 640,
+    "date_captured": "2013-11-20 21:24:16",
+    "question": "What sport or activity is the person participating in?"
+  },
+  {
+    "id": 568213,
+    "url": "http://images.cocodataset.org/val2017/000000568213.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A couple of men standing on top of a field together.",
+      "Two men playing frisbee together on a field",
+      "a young man attempting to throw a Frisbee past a defender ",
+      "The player tries to block the other player from throwing a Frisbee. ",
+      "a man is throwing a frisbee in a field"
+    ],
+    "height": 325,
+    "width": 500,
+    "date_captured": "2013-11-18 18:06:55",
+    "question": "Is the man playing with someone else in the field or by himself?"
+  },
+  {
+    "id": 414034,
+    "url": "http://images.cocodataset.org/val2017/000000414034.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A kid sitting on a bed with a remote.",
+      "A child holding a sippy cup and the remote ",
+      "A child wearing a baseball cap with a remote control and a sippy cup.",
+      "The little boy is drinking from a sippy cup and holding the remote control. ",
+      "A little kid sitting on top of a bed holding a remote."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-20 20:53:55",
+    "question": "What is the little boy watching on the TV?"
+  },
+  {
+    "id": 459634,
+    "url": "http://images.cocodataset.org/val2017/000000459634.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "People are riding on motorcycles on a scenic road.",
+      "A motor bike going down a city road.",
+      "The motorcycle riders travel on the mountain highway.",
+      "A back end of a vehicle with a metal rack and an antennae.",
+      "The view of a motorcycle going down a road."
+    ],
+    "height": 533,
+    "width": 640,
+    "date_captured": "2013-11-15 21:07:56",
+    "question": "What type of vehicle is it likely to be, based on the presence of a metal rack and an antennae?"
+  },
+  {
+    "id": 66635,
+    "url": "http://images.cocodataset.org/val2017/000000066635.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "A desk area with a computer monitor, keyboard and mouse.",
+      "A computer monitor with a keyboard and a mouse.",
+      "a desk top with a monitor and keyboard on it",
+      "a small wood table with a small computer on it ",
+      "An apple computer monitor, keyboard and mouse sits on top of a clean wooden desk. "
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-22 00:58:44",
+    "question": "Is the person using the computer present in the image?"
+  },
+  {
+    "id": 343706,
+    "url": "http://images.cocodataset.org/val2017/000000343706.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "A woman holding her cell phone tucked in a wool cover.",
+      "A cell phone fits snugly in a crocheted phone case.",
+      "A woman has crocheted case for her iPhone. ",
+      "A woman's hand holding a crocheted iPhone cover.",
+      "It is winter, and this young woman wearing her cold weaterh coat also has her Smartphone in a handknitted sleeve."
+    ],
+    "height": 496,
+    "width": 640,
+    "date_captured": "2013-11-22 02:23:29",
+    "question": "What pattern or design is used in the crocheted phone case?"
+  },
+  {
+    "id": 357238,
+    "url": "http://images.cocodataset.org/val2017/000000357238.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A kite being flown in the middle of a beach.",
+      "Some one is flying a kite high on the beach.",
+      "a person that is flying a kite in the sky",
+      "The kite surfer is standing below the flying kite on a beach.",
+      "A person flies a parasol while standing in the water by a beach. "
+    ],
+    "height": 640,
+    "width": 427,
+    "date_captured": "2013-11-22 09:57:06",
+    "question": "What is the weather like in the background while the person is flying the kite?"
+  },
+  {
+    "id": 553664,
+    "url": "http://images.cocodataset.org/val2017/000000553664.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "A red laptop with earbuds sitting on a table",
+      "the red laptop is sitting on the table with headphones",
+      "A macbook laptop next to a phone, backpack, and various books. ",
+      "The laptop has an mp3 player next to it.",
+      "Red laptop on a table showing you can learn anywhere!"
+    ],
+    "height": 414,
+    "width": 640,
+    "date_captured": "2013-11-24 05:14:38",
+    "question": "Is the laptop turned on or off in the image?"
+  },
+  {
+    "id": 258388,
+    "url": "http://images.cocodataset.org/val2017/000000258388.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A teenager shoots flames at a friend balancing on a skateboard.",
+      "a man rides his skateboard on a small ledge while another man lights the spray from a can on fire",
+      "A skateboarder on a rail in a  building with another man using a spray can as a blow torch.",
+      "A man ignites spray from a can next to his friend on a skateboard",
+      "The young man is practicing his tricks on his skateboard while the other is playing with fire."
+    ],
+    "height": 425,
+    "width": 640,
+    "date_captured": "2013-11-20 04:38:38",
+    "question": "Is the man lighting the spray can trying to set the skateboarder on fire or is it part of a stunt or trick?"
+  },
+  {
+    "id": 222094,
+    "url": "http://images.cocodataset.org/val2017/000000222094.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "Road is littered with old cars and some wrecked trucks with a lone red and white stop sign at a grassy lot ",
+      "A stop sign in front of a road in a small town in the hills.",
+      "this is a stop sign in a rocky field",
+      "Lots of junk on a field of grass next to a stop sign.",
+      "a stop sighn in a grass feild next to a road. "
+    ],
+    "height": 375,
+    "width": 500,
+    "date_captured": "2013-11-15 11:46:48",
+    "question": "Why is a stop sign placed in a seemingly remote and rocky field?"
+  },
+  {
+    "id": 281179,
+    "url": "http://images.cocodataset.org/val2017/000000281179.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A rain covered terrain after a night of rain. ",
+      "A red traffic light at night next to a Christmas Tree.",
+      "A street at night time with many different lights. ",
+      "An empty street at night with lots of lights in the background.",
+      "A bright city street with a stop light and a big Christmas tree."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-16 15:41:30",
+    "question": "Is the street in a city or a small town?"
+  },
+  {
+    "id": 260106,
+    "url": "http://images.cocodataset.org/val2017/000000260106.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "A man jumping a brown horse over an obstacle.",
+      "A person riding a horse who is jumping over obstacles. ",
+      "A horse and rider making a jump over a fence on a field",
+      "A man on a horse during  a race jumps over a hurdle",
+      "A person sitting on a horse in air over gate in grass with people and trees in background."
+    ],
+    "height": 600,
+    "width": 400,
+    "date_captured": "2013-11-19 01:47:36",
+    "question": "What appears to be the occasion or event that is taking place in the background?"
+  },
+  {
+    "id": 162543,
+    "url": "http://images.cocodataset.org/val2017/000000162543.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "A herd of elephants standing on top of a dirt road.",
+      "a herd of elephants standing side by side in an enclosed area",
+      "Some elephants are roaming around their habitat in the zoo.",
+      "Many elephants in a cage stand together. ",
+      "Elephants in a zoo close to buildings "
+    ],
+    "height": 360,
+    "width": 640,
+    "date_captured": "2013-11-18 03:36:22",
+    "question": "What type of enclosure or habitat is provided for the elephants in the zoo?"
+  },
+  {
+    "id": 366199,
+    "url": "http://images.cocodataset.org/val2017/000000366199.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "A cat hides underneath the cover of blankets.",
+      "Small cat under the blankets on a bed. ",
+      "That looks like it may be hiding under something.",
+      "I am not sure what this image is.",
+      "A very cute cat hiding under a blanket."
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-17 20:10:00",
+    "question": "Is the small cat sleeping under the blankets?"
+  },
+  {
+    "id": 329323,
+    "url": "http://images.cocodataset.org/val2017/000000329323.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "A group of people who are standing together.",
+      "a group of people that are standing up outside",
+      "a group of people are all gathered together outside",
+      "A crowd of people gather around the unwrapping of an item.",
+      "The crowd is looking at something covered in white cloth."
+    ],
+    "height": 640,
+    "width": 425,
+    "date_captured": "2013-11-18 03:20:36",
+    "question": "What is the item being unwrapped?"
+  },
+  {
+    "id": 157601,
+    "url": "http://images.cocodataset.org/val2017/000000157601.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "Woman sitting at table with beverages consuming sandwich. ",
+      "A woman eating a sandwich in front of two paper cups filled with a hot liquid.",
+      "A woman eating a sandwich with a drink in front of her.",
+      "A woman of Asian heritage eating a sandwich at a table with two cups of hot beverages.",
+      "An Asian woman eating by a large window."
+    ],
+    "height": 612,
+    "width": 612,
+    "date_captured": "2013-11-20 14:21:58",
+    "question": "What type of drink is the woman having with her sandwich?"
+  },
+  {
+    "id": 447314,
+    "url": "http://images.cocodataset.org/val2017/000000447314.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "A woman flies a kite near a young child.",
+      "A mother and child fly a kite in a grassy field, with a tower in the background.",
+      "The people fly a kite by the tall stone building.",
+      "A lady and a little girl flying a kite on a grassy field.",
+      "A woman and girl flying a kite near a large castle."
+    ],
+    "height": 458,
+    "width": 640,
+    "date_captured": "2013-11-22 19:51:18",
+    "question": "What is the relationship between the woman and the young child?"
+  },
+  {
+    "id": 489764,
+    "url": "http://images.cocodataset.org/val2017/000000489764.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A woman and a man playing a video game in the living room",
+      "A woman in a striped shirt playing a video game.",
+      "A woman playing a video game with the Nintendo Wii.",
+      "A woman holding a game controller with a man looking on.",
+      "Two people sitting down playing a video game"
+    ],
+    "height": 538,
+    "width": 640,
+    "date_captured": "2013-11-21 23:39:34",
+    "question": "Are they competing against each other in the video game?"
+  },
+  {
+    "id": 1818,
+    "url": "http://images.cocodataset.org/val2017/000000001818.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A zebra in the grass who is cleaning himself. ",
+      "A baby giraffe drinking milk from it's mother in a field.",
+      "A baby zebra is suckling milk from its mother.",
+      "a baby zebra nursing from an adult zebra",
+      "Baby zebra sucking milk from its mothers teat. "
+    ],
+    "height": 425,
+    "width": 640,
+    "date_captured": "2013-11-18 17:27:54",
+    "question": "What is the environment or setting where the baby zebra is nursing from its mother?"
+  },
+  {
+    "id": 368982,
+    "url": "http://images.cocodataset.org/val2017/000000368982.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A pair of scissors sitting on top of a table.",
+      "A pair of scissors, tape, and wrapping paper lie on a wooden surface.",
+      "Some scrap book scissors are on a brown table.",
+      "a pair of scissor that is laying on a wooden table",
+      "A pair of scissors and fabric on a wood table."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-24 20:46:07",
+    "question": "What appears to be the person's intention or activity with the scissors and fabric?"
+  },
+  {
+    "id": 550349,
+    "url": "http://images.cocodataset.org/val2017/000000550349.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A bus about to stop to pick up passengers.",
+      "a group of people waiting for the metro bus",
+      "An Orange bus is parked next to the people. ",
+      "A couple of people standing next to a large bus.",
+      "People stand on the sidewalk waiting for the bus to come. "
+    ],
+    "height": 640,
+    "width": 480,
+    "date_captured": "2013-11-16 16:22:32",
+    "question": "What appears to be the destination or purpose of the orange bus?"
+  },
+  {
+    "id": 112110,
+    "url": "http://images.cocodataset.org/val2017/000000112110.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A man raising a foot over a brief case",
+      "A man stepping over a briefcase on a sidewalk. ",
+      "Someone is stomping on top of that briefcase.",
+      "a person standing on cement lift his leg over a brief case",
+      "A person is stomping on a black briefcase."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-18 10:20:02",
+    "question": "What is the person doing with the briefcase, or is it just an obstacle?"
+  },
+  {
+    "id": 532129,
+    "url": "http://images.cocodataset.org/val2017/000000532129.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A cheese pizza sitting on top of white paper and a large plate. ",
+      "Cheese pizza is sliced into small pieces on a plate.",
+      "The pizza has been cut into tiny square pieces.",
+      "a pizza on a pan cut into squares ",
+      "A delicious pizza sets on top of a plate. "
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-15 20:25:41",
+    "question": "What toppings can be seen on the pizza?"
+  },
+  {
+    "id": 220732,
+    "url": "http://images.cocodataset.org/val2017/000000220732.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "THERE ARE CITY BUSES THAT ARE LINED ON THE STREET IN FRONT OF THE BUILDING ",
+      "A bus with its serial number that can be seen from the air overlooks a panel truck and another bus.",
+      "a public bus driving on a city street",
+      "A busy city street with buses, trucks and cars.",
+      "Many trucks and city buses drive down the crowded street."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-17 19:20:15",
+    "question": "Is the bus empty or are there passengers inside?"
+  },
+  {
+    "id": 275749,
+    "url": "http://images.cocodataset.org/val2017/000000275749.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A group of people standing in a room.",
+      "A lot of people that are in a room together.",
+      "small gathering of people at a friends house for drinks",
+      "A group of people are socializing with each other.",
+      "Group of people standing around computer monitors. "
+    ],
+    "height": 375,
+    "width": 500,
+    "date_captured": "2013-11-15 17:37:23",
+    "question": "What activity or task appears to be the focus of the group of people around the computer monitors?"
+  },
+  {
+    "id": 176778,
+    "url": "http://images.cocodataset.org/val2017/000000176778.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A cat standing next to a white toilet near a bath tub.",
+      "A cat in a bathroom with a tub and a toilet. ",
+      "A white toilet and a bath in a room.",
+      "A toilet and a bathtub in a bathroom with a cat next to it",
+      "A bathroom with a toilet, bathtub, and a cat in a bathroom."
+    ],
+    "height": 640,
+    "width": 427,
+    "date_captured": "2013-11-15 01:49:27",
+    "question": "What is the cat doing next to the bathtub?"
+  },
+  {
+    "id": 407083,
+    "url": "http://images.cocodataset.org/val2017/000000407083.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A small dog is looking out a car window.",
+      "A dog on a leash looks out the rear window while sitting next to a male passenger.",
+      "A small dog in a car standing on his owner.",
+      "A man and a dog riding in the cab of a pickup truck.",
+      "A dog looking out the back window of a car."
+    ],
+    "height": 640,
+    "width": 480,
+    "date_captured": "2013-11-17 13:57:37",
+    "question": "Is the car moving or parked?"
+  },
+  {
+    "id": 215723,
+    "url": "http://images.cocodataset.org/val2017/000000215723.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "Two men smiling and wearing yellow jackets behind construction markers.",
+      "Two men in neon yellow safety jackets sharing a meal next to a food car.",
+      "Two men wearing bright yellow construction jackets eating and standing under an orange umbrella",
+      "Two men in yellow jackets sitting at a table eating",
+      "Workers in fluorescent yellow jackets standing under a fluorescent orange umbrella."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-16 14:38:10",
+    "question": "What are the workers doing under the fluorescent orange umbrella?"
+  },
+  {
+    "id": 509719,
+    "url": "http://images.cocodataset.org/val2017/000000509719.jpg",
+    "license": "http://creativecommons.org/licenses/by-nd/2.0/",
+    "captions": [
+      "A small bird is standing on the concrete",
+      "A brown bird is standing on the ground.",
+      "a close of up a small bird on a dirt ground",
+      "The small brown bird is standing on the ground beside another animal.",
+      "A bird standing on the ground looking around"
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-17 05:58:29",
+    "question": "What type of bird is it and is it injured or just resting on the ground?"
+  },
+  {
+    "id": 3845,
+    "url": "http://images.cocodataset.org/val2017/000000003845.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "a chicken meal with carrots broccoli and rice",
+      "A dinner plate that has white steamed rice with stir fry vegetables and chicken.",
+      "A plate of vegetables, chicken, and white rice.",
+      "The food is prepared on the dish on the table. ",
+      "A plate of food and a drink on a table."
+    ],
+    "height": 375,
+    "width": 500,
+    "date_captured": "2013-11-15 14:06:05",
+    "question": "What type of meal or cuisine is on the plate?"
+  },
+  {
+    "id": 2153,
+    "url": "http://images.cocodataset.org/val2017/000000002153.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "Batter preparing to swing at pitch during major game.",
+      "A baseball player swinging a bat over home plate.",
+      "A baseball player with a bat in his hand as the pitcher gets ready to throw the ball. ",
+      "A baseball game where the batter is waiting for the pitch.",
+      "there is a male tennis player that is at base"
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-22 23:42:23",
+    "question": "Is the male tennis player preparing to serve or waiting for the opponent's serve?"
+  },
+  {
+    "id": 541773,
+    "url": "http://images.cocodataset.org/val2017/000000541773.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A young man pouring glasses of wine in a kitchen",
+      "A man standing in front of a wooden table covered in glasses of wine.",
+      "A person pouring some wine standing by a friend",
+      "The man is pouring a glass of wine, and there are several others on the table.",
+      "Dinner party guests enjoy a glass of fine wine."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-25 20:12:57",
+    "question": "What appears to be the occasion or event with multiple glasses of wine on the table?"
+  },
+  {
+    "id": 161128,
+    "url": "http://images.cocodataset.org/val2017/000000161128.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "A curse word written on a traffic sign.",
+      "A street sign in the city with various symbols on it. ",
+      "A street sign is a circle with a cross through it.",
+      "I am assuming that the sign means no profanity.",
+      "A no cursing sign posted as a street sign."
+    ],
+    "height": 500,
+    "width": 375,
+    "date_captured": "2013-11-17 03:04:46",
+    "question": "What is the original intended message or warning on the traffic sign before it was vandalized?"
+  },
+  {
+    "id": 186938,
+    "url": "http://images.cocodataset.org/val2017/000000186938.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "A small bird standing on a rocky ground.",
+      "A grey and white bird on sandy beach next to rocks.",
+      "a small bird standing on a rocky beach",
+      "A bird standing in the sand surrounded by rocks and pebbles.",
+      "A little grey and white bird standing on a sandy beach."
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-16 22:28:16",
+    "question": "What type of bird is standing in the sand?"
+  },
+  {
+    "id": 33759,
+    "url": "http://images.cocodataset.org/val2017/000000033759.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A boy swinging a baseball bat at a game.",
+      "A young boy swinging a baseball bat at a baseball.",
+      "A young baseball player stands at the plate, in motion to hit an oncoming ball. ",
+      "a boy swinging his baseball bat at a baseball",
+      "A little kid swinging a bat in a baseball game."
+    ],
+    "height": 457,
+    "width": 640,
+    "date_captured": "2013-11-22 21:02:39",
+    "question": "Is the boy hitting the baseball in a professional game or just practicing his swing?"
+  },
+  {
+    "id": 309678,
+    "url": "http://images.cocodataset.org/val2017/000000309678.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "A person is holding a tomato above a tray.",
+      "A person holding a small tomato over a tray that has sauce on it.",
+      "There is a tray filled with sauce covered food",
+      "A large square pizza sitting on top of a pan.",
+      "Woman holding tomato over item being prepared for baking."
+    ],
+    "height": 411,
+    "width": 640,
+    "date_captured": "2013-11-21 04:21:10",
+    "question": "What type of cuisine are the sauce-covered foods on the tray?"
+  },
+  {
+    "id": 29397,
+    "url": "http://images.cocodataset.org/val2017/000000029397.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A person wearing orange pants standing on a bench",
+      "Someone in orange pants stands on a wooden bench.",
+      "a man standing on a bench with a sign next to them ",
+      "A person in red pants stands on a wooden bench with a poster.",
+      "an image of boy standing on top of  a bench"
+    ],
+    "height": 449,
+    "width": 640,
+    "date_captured": "2013-11-16 22:02:45",
+    "question": "What does the sign next to the man say?"
+  },
+  {
+    "id": 61471,
+    "url": "http://images.cocodataset.org/val2017/000000061471.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "Puppy chewing on toilet paper in the bathroom. ",
+      "A brown dog standing next to a toilet in a bathroom.",
+      "A puppy pulls a line of toilet paper. ",
+      "A dog playing with a roll of toilet paper in a bathroom.",
+      "A puppy has pulled toilet paper across the bathroom floor."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-15 01:18:25",
+    "question": "How old is the puppy in the image?"
+  },
+  {
+    "id": 7888,
+    "url": "http://images.cocodataset.org/val2017/000000007888.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A pedestal clock strikes 6:55 in a rainy sky.",
+      "The image has a large cubed clock on a post.",
+      "A poll that has a clock on the top of it.",
+      "We are looking up at a large square clock on a pole.",
+      "Four sided clock up on a black post. "
+    ],
+    "height": 640,
+    "width": 638,
+    "date_captured": "2013-11-24 15:25:32",
+    "question": "Is the pedestal clock located indoors or outdoors in the rainy sky?"
+  },
+  {
+    "id": 161642,
+    "url": "http://images.cocodataset.org/val2017/000000161642.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "A coo coo clock mounted to the side of a wall.",
+      "A multi colored clock hangs on the wall.",
+      "a wall clock shaped like a birdhouse with tassels  hanging from it.",
+      "A very ornately decorated and brightly colored clock.",
+      "an image of clock that is on the wall"
+    ],
+    "height": 640,
+    "width": 480,
+    "date_captured": "2013-11-24 04:57:29",
+    "question": "What style or era is the clock from?"
+  },
+  {
+    "id": 127517,
+    "url": "http://images.cocodataset.org/val2017/000000127517.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A row of surfboards sticking out of the sand sitting next to each other.",
+      "a row of surf boards placed in the sand",
+      "Several surfboards standing in a row on the beach ",
+      "A row of surfboards leaned up against a wood rail in the sand.",
+      "Many surfboards are propped against a rail on the beach."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-20 18:09:30",
+    "question": "Is the location in the caption a popular surfing spot?"
+  },
+  {
+    "id": 217614,
+    "url": "http://images.cocodataset.org/val2017/000000217614.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A giraffe is walking in some tall grass",
+      "A giraffe standing in tall grass with trees.",
+      "A giraffe standing in some tall grass outside.",
+      "A giraffe standing in the middle of  a lush green field.",
+      "A giraffe stands in the brush near trees."
+    ],
+    "height": 640,
+    "width": 480,
+    "date_captured": "2013-11-16 15:17:04",
+    "question": "What appears to be the giraffe's activity or behavior in the brush near the trees?"
+  },
+  {
+    "id": 137950,
+    "url": "http://images.cocodataset.org/val2017/000000137950.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "A plane flying over several houses and lots of trees. ",
+      "A plane flies through the sky above some trees. ",
+      "An old photo of a small plane in the air.",
+      "an airplane is flying over some trees and buildings",
+      "A tri-motor, vintage airplane on final approach to land."
+    ],
+    "height": 415,
+    "width": 640,
+    "date_captured": "2013-11-16 14:25:20",
+    "question": "What type of plane is depicted in the old photograph?"
+  },
+  {
+    "id": 186345,
+    "url": "http://images.cocodataset.org/val2017/000000186345.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "4 different colored sea horses flying with 4 birds.",
+      "sea horses with birds flying in the sky",
+      "Four seahorses in the sky next to four birds.",
+      "Seahorses are photos hoped into a blue sky above sand dunes. ",
+      "AN EDITED PICTURE WITH SEA HORSES FLYING IN THE SKY."
+    ],
+    "height": 431,
+    "width": 640,
+    "date_captured": "2013-11-22 08:20:37",
+    "question": "Are the sea horses in their natural habitat or in a controlled environment, such as an aquarium?"
+  },
+  {
+    "id": 573258,
+    "url": "http://images.cocodataset.org/val2017/000000573258.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "a person riding skis on a snowy slope",
+      "A teenager is on the snow with his skis.",
+      "A skier standing on a snowy mountain with trees.",
+      "A woman is on the side of a mountain in ski gear. ",
+      "A person on a ski slope getting ready to ski down."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-19 23:50:14",
+    "question": "Is the woman actively skiing or standing still in the image?"
+  },
+  {
+    "id": 400082,
+    "url": "http://images.cocodataset.org/val2017/000000400082.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A hotdog, fries and a drink sit on a table beside a book.",
+      "Two boxes of takeout food are sitting on a park bench.",
+      "a close up of a paper box holding hot dogs and french fries",
+      "Boxed hotdog, fries and a drink are set out for daytime reading.",
+      "A table has a hot dog and french fries on it."
+    ],
+    "height": 283,
+    "width": 500,
+    "date_captured": "2013-11-20 08:38:40",
+    "question": "Are the boxes of takeout food being eaten by someone, or are they unattended?"
+  },
+  {
+    "id": 537241,
+    "url": "http://images.cocodataset.org/val2017/000000537241.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A big thick tasty looking pastry with icing on it.",
+      "Cinnamon roll with icing on a square of wax paper.",
+      "A cinnamon roll with icing sitting on wax paper.",
+      "A doughnut with sprinkled sugar and icing on it.",
+      "a doughnut like pastry sitting on parchment paper"
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-15 19:30:01",
+    "question": "Is the cinnamon roll homemade or store-bought?"
+  },
+  {
+    "id": 103723,
+    "url": "http://images.cocodataset.org/val2017/000000103723.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "a person standing close to an elephant ",
+      "an elephant in a zoo walks around slowly",
+      "a large elephant that is next to a curb",
+      "A woman is watching an elephant in an enclosure.",
+      "A woman looking at an elephant in its enclosure."
+    ],
+    "height": 640,
+    "width": 480,
+    "date_captured": "2013-11-18 08:49:19",
+    "question": "What is the woman's expression or reaction as she watches the elephant?"
+  },
+  {
+    "id": 350122,
+    "url": "http://images.cocodataset.org/val2017/000000350122.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A busy bus station with ramp going downstairs.",
+      "A woman walking a bike down a walkway in a  train station.",
+      "Adult with bicycle on ramp of commuter railway platform.",
+      "Many people are waiting for a bus at the bus terminal.",
+      "A bunch of people in a building doing different things"
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-14 23:36:35",
+    "question": "What city or country is the bus station located in?"
+  },
+  {
+    "id": 293474,
+    "url": "http://images.cocodataset.org/val2017/000000293474.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "a yellow and black fire hydrant on the sidewalk",
+      "A yellow and black frisbee sitting on a  sidewalk.",
+      "Yellow and black fire hydrant near curb in front of store window",
+      "a black and yellow fire hydrant on a city street",
+      "A yellow fire hydrant on a sidewalk by a storefront."
+    ],
+    "height": 333,
+    "width": 500,
+    "date_captured": "2013-11-16 20:31:01",
+    "question": "What is the type of storefront visible in the background near the fire hydrant?"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 293832,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000293832.jpg",
+    "question_type": "how many",
+    "question": "How many toothbrushes are there?",
+    "answer_type": "number",
+    "multiple_choice_answer": "5",
+    "answers": [
+      "7",
+      "8",
+      "4",
+      "9",
+      "5",
+      "6",
+      "7",
+      "5",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": 129592,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000129592.jpg",
+    "question_type": "is this a",
+    "question": "Is this a typical US hydrant?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "id": 13729,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000013729.jpg",
+    "question_type": "what color is",
+    "question": "What color is her hair?",
+    "answer_type": "other",
+    "multiple_choice_answer": "brown",
+    "answers": [
+      "golden",
+      "brown",
+      "brown",
+      "brown",
+      "brown",
+      "blonde",
+      "dirty blonde",
+      "brown",
+      "brown",
+      "brown"
+    ]
+  },
+  {
+    "id": 379086,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000379086.jpg",
+    "question_type": "are the",
+    "question": "Are the lights on?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no on bus"
+    ]
+  },
+  {
+    "id": 96618,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000096618.jpg",
+    "question_type": "does the",
+    "question": "Does the dog like outside?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 28682,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000028682.jpg",
+    "question_type": "is there a",
+    "question": "Is there a fruit basket on the counter?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 137727,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000137727.jpg",
+    "question_type": "what is",
+    "question": "What is being loaded onto the train?",
+    "answer_type": "other",
+    "multiple_choice_answer": "luggage",
+    "answers": [
+      "luggage",
+      "suitcases",
+      "baggage",
+      "luggage",
+      "suitcases",
+      "baggage",
+      "luggage",
+      "luggage",
+      "luggage",
+      "baggage"
+    ]
+  },
+  {
+    "id": 381842,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000381842.jpg",
+    "question_type": "does the",
+    "question": "Does the name of the street relate to Greek pleasure?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 449522,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000449522.jpg",
+    "question_type": "what are the",
+    "question": "What are the people eating?",
+    "answer_type": "other",
+    "multiple_choice_answer": "sandwich",
+    "answers": [
+      "1",
+      "panini",
+      "sandwich",
+      "chicken sandwiches",
+      "sandwich",
+      "sandwich",
+      "paninis",
+      "sandwich",
+      "lunch",
+      "panini"
+    ]
+  },
+  {
+    "id": 304186,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000304186.jpg",
+    "question_type": "what color is the",
+    "question": "What color is the game controller?",
+    "answer_type": "other",
+    "multiple_choice_answer": "white",
+    "answers": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 458467,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000458467.jpg",
+    "question_type": "what are the",
+    "question": "What are the animals eating?",
+    "answer_type": "other",
+    "multiple_choice_answer": "leaves",
+    "answers": [
+      "leaves",
+      "leaves",
+      "leaves",
+      "grass",
+      "grass",
+      "leaves",
+      "leaves",
+      "leaves",
+      "leaves",
+      "leaves"
+    ]
+  },
+  {
+    "id": 503978,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000503978.jpg",
+    "question_type": "none of the above",
+    "question": "Can a vegan eat this food?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "id": 121849,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000121849.jpg",
+    "question_type": "is the",
+    "question": "Is the child using the bathroom?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "id": 499281,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000499281.jpg",
+    "question_type": "none of the above",
+    "question": "Where is microwave?",
+    "answer_type": "other",
+    "multiple_choice_answer": "over counter",
+    "answers": [
+      "above counter",
+      "left middle corner",
+      "over counter",
+      "under cabinet",
+      "over counter",
+      "center left",
+      "yes",
+      "over counter",
+      "above counter",
+      "on shelf"
+    ]
+  },
+  {
+    "id": 155897,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000155897.jpg",
+    "question_type": "is",
+    "question": "Is a healthy food?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "id": 180739,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180739.jpg",
+    "question_type": "how",
+    "question": "How tall is the wave?",
+    "answer_type": "number",
+    "multiple_choice_answer": "3 feet",
+    "answers": [
+      "2 feet",
+      "3 feet",
+      "2 feet",
+      "1 foot",
+      "low",
+      "tall",
+      "2 ft",
+      "3 feet",
+      "3 feet",
+      "4 ft"
+    ]
+  },
+  {
+    "id": 57760,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000057760.jpg",
+    "question_type": "do you",
+    "question": "Do you see any motorized vehicles?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 422383,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000422383.jpg",
+    "question_type": "is there",
+    "question": "Is there water in this photo?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 425898,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000425898.jpg",
+    "question_type": "what",
+    "question": "What phone number is on the sign?",
+    "answer_type": "number",
+    "multiple_choice_answer": "896-4247",
+    "answers": [
+      "896-4247",
+      "896-4247",
+      "896-4247",
+      "896-4747",
+      "896-4247",
+      "896-4247",
+      "896-4047",
+      "896-4247",
+      "896-4247",
+      "896-4047"
+    ]
+  },
+  {
+    "id": 74037,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000074037.jpg",
+    "question_type": "what are",
+    "question": "What are on the heads?",
+    "answer_type": "other",
+    "multiple_choice_answer": "horns",
+    "answers": [
+      "horns",
+      "devil horns",
+      "devil horns",
+      "horns",
+      "horns",
+      "horns",
+      "horns",
+      "horns",
+      "headband",
+      "horns"
+    ]
+  },
+  {
+    "id": 342100,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000342100.jpg",
+    "question_type": "are there any",
+    "question": "Are there any baby horses?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "1",
+      "yes",
+      "1",
+      "no",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "id": 404462,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000404462.jpg",
+    "question_type": "what is",
+    "question": "What is reflecting in the mirror?",
+    "answer_type": "other",
+    "multiple_choice_answer": "door",
+    "answers": [
+      "statue",
+      "door",
+      "light",
+      "wall",
+      "something on wall",
+      "door",
+      "egg",
+      "football",
+      "lamp",
+      "hat"
+    ]
+  },
+  {
+    "id": 131152,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000131152.jpg",
+    "question_type": "are these",
+    "question": "Are these people wet?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "id": 363241,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000363241.jpg",
+    "question_type": "none of the above",
+    "question": "Should the child eat what is in the pan?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "pizza",
+      "yes"
+    ]
+  },
+  {
+    "id": 436865,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000436865.jpg",
+    "question_type": "are",
+    "question": "Are his spots black?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "id": 438269,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000438269.jpg",
+    "question_type": "is this",
+    "question": "Is this bird running?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 180521,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180521.jpg",
+    "question_type": "what color",
+    "question": "What color hair does the girl in the red shirt have?",
+    "answer_type": "other",
+    "multiple_choice_answer": "blonde",
+    "answers": [
+      "blonde",
+      "blonde",
+      "blonde",
+      "blonde",
+      "blonde",
+      "blonde",
+      "blonde",
+      "blonde",
+      "blonde",
+      "blonde"
+    ]
+  },
+  {
+    "id": 228344,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000228344.jpg",
+    "question_type": "what color",
+    "question": "What color shirt is the person wearing?",
+    "answer_type": "other",
+    "multiple_choice_answer": "blue",
+    "answers": [
+      "blue",
+      "blue",
+      "blue",
+      "blue",
+      "blue",
+      "blue",
+      "blue",
+      "blue",
+      "blue, black",
+      "blue"
+    ]
+  },
+  {
+    "id": 341678,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000341678.jpg",
+    "question_type": "how many",
+    "question": "How many balls are on the racket the boy is holding?",
+    "answer_type": "number",
+    "multiple_choice_answer": "1",
+    "answers": [
+      "1",
+      "0",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "id": 525369,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000525369.jpg",
+    "question_type": "do you",
+    "question": "Do you see a giant teddy bear?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 207611,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000207611.jpg",
+    "question_type": "how many",
+    "question": "How many blue umbrellas are in the background?",
+    "answer_type": "number",
+    "multiple_choice_answer": "3",
+    "answers": [
+      "0",
+      "3",
+      "0",
+      "3",
+      "0",
+      "2",
+      "2",
+      "3",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "id": 299970,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000299970.jpg",
+    "question_type": "what does the",
+    "question": "What does the sign say?",
+    "answer_type": "other",
+    "multiple_choice_answer": "parking authority trap",
+    "answers": [
+      "parking authority trap",
+      "parking authority trap",
+      "parking authority trap",
+      "parking",
+      "parking authorities trap",
+      "parking authorities trap",
+      "can't see",
+      "parking authority trap",
+      "parking authority trap",
+      "parking authority trap"
+    ]
+  },
+  {
+    "id": 236925,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000236925.jpg",
+    "question_type": "how many",
+    "question": "How many hooves are visible?",
+    "answer_type": "number",
+    "multiple_choice_answer": "2",
+    "answers": [
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  {
+    "id": 341309,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000341309.jpg",
+    "question_type": "none of the above",
+    "question": "Can the woman tell the time?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "id": 437117,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000437117.jpg",
+    "question_type": "what color is the",
+    "question": "What color is the line on the tennis court?",
+    "answer_type": "other",
+    "multiple_choice_answer": "white",
+    "answers": [
+      "unanswerable",
+      "black",
+      "green",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": 212739,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000212739.jpg",
+    "question_type": "is the",
+    "question": "Is the guy on flat ground?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "no",
+      "waiting his turn",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 83736,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000083736.jpg",
+    "question_type": "what kind of",
+    "question": "What kind of vehicle is this?",
+    "answer_type": "other",
+    "multiple_choice_answer": "bus",
+    "answers": [
+      "bus",
+      "bus",
+      "triple-decker bus",
+      "scenic triple decker",
+      "double decker bus",
+      "bus",
+      "triple decker bus",
+      "bus",
+      "bus",
+      "bus"
+    ]
+  },
+  {
+    "id": 512869,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000512869.jpg",
+    "question_type": "what",
+    "question": "What utensil is on the woman's napkin?",
+    "answer_type": "other",
+    "multiple_choice_answer": "fork",
+    "answers": [
+      "fork",
+      "fork",
+      "fork",
+      "fork",
+      "fork",
+      "fork",
+      "fork",
+      "fork",
+      "fork",
+      "fork"
+    ]
+  },
+  {
+    "id": 168583,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000168583.jpg",
+    "question_type": "none of the above",
+    "question": "Based on the clothing of the people, which season was it when this picture was taken?",
+    "answer_type": "other",
+    "multiple_choice_answer": "winter",
+    "answers": [
+      "winter",
+      "winter",
+      "winter",
+      "winter",
+      "spring",
+      "fall",
+      "halloween",
+      "winter",
+      "summer",
+      "winter"
+    ]
+  },
+  {
+    "id": 451308,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000451308.jpg",
+    "question_type": "what",
+    "question": "What items does this person collect?",
+    "answer_type": "other",
+    "multiple_choice_answer": "suitcases",
+    "answers": [
+      "suitcases",
+      "suitcases",
+      "suitcases",
+      "suitcases",
+      "suitcases",
+      "suitcases",
+      "suitcases",
+      "suitcases",
+      "suitcases",
+      "suitcases"
+    ]
+  },
+  {
+    "id": 432234,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000432234.jpg",
+    "question_type": "how many",
+    "question": "How many stuffed toys are pictured?",
+    "answer_type": "number",
+    "multiple_choice_answer": "2",
+    "answers": [
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  {
+    "id": 485909,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000485909.jpg",
+    "question_type": "are these",
+    "question": "Are these people happy?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 556758,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000556758.jpg",
+    "question_type": "where are the",
+    "question": "Where are the horse standing?",
+    "answer_type": "other",
+    "multiple_choice_answer": "forest",
+    "answers": [
+      "in grass",
+      "meadow",
+      "on grass",
+      "forest",
+      "mountain",
+      "forest",
+      "in field",
+      "field",
+      "in field",
+      "forest"
+    ]
+  },
+  {
+    "id": 274272,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000274272.jpg",
+    "question_type": "what is on the",
+    "question": "What is on the bus?",
+    "answer_type": "other",
+    "multiple_choice_answer": "prepay only",
+    "answers": [
+      "prepay only",
+      "prepay only m20",
+      "prepay only",
+      "people",
+      "people",
+      "prepay only m20",
+      "prepay only",
+      "passengers",
+      "prepay only m20",
+      "people"
+    ]
+  },
+  {
+    "id": 408039,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000408039.jpg",
+    "question_type": "who is",
+    "question": "Who is standing in the picture?",
+    "answer_type": "other",
+    "multiple_choice_answer": "boy",
+    "answers": [
+      "boy",
+      "boy",
+      "boy in white",
+      "boy",
+      "boy",
+      "boy",
+      "kid",
+      "boy",
+      "boy",
+      "boy"
+    ]
+  },
+  {
+    "id": 90640,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000090640.jpg",
+    "question_type": "is this a",
+    "question": "Is this a recent picture?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 388770,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000388770.jpg",
+    "question_type": "is the",
+    "question": "Is the sky overcast?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "yes",
+    "answers": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes"
+    ]
+  },
+  {
+    "id": 48739,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000048739.jpg",
+    "question_type": "none of the above",
+    "question": "Who has the camera?",
+    "answer_type": "other",
+    "multiple_choice_answer": "man",
+    "answers": [
+      "man",
+      "guy",
+      "man",
+      "man",
+      "man",
+      "man",
+      "father",
+      "man",
+      "man",
+      "baby's parent"
+    ]
+  },
+  {
+    "id": 287570,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000287570.jpg",
+    "question_type": "what color is the",
+    "question": "What color is the skier's jacket?",
+    "answer_type": "other",
+    "multiple_choice_answer": "pink",
+    "answers": [
+      "pink",
+      "red",
+      "pink",
+      "red",
+      "red",
+      "pink",
+      "pink",
+      "pink",
+      "pink and white",
+      "red"
+    ]
+  },
+  {
+    "id": 75426,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000075426.jpg",
+    "question_type": "what is",
+    "question": "What is drawn on the paper?",
+    "answer_type": "other",
+    "multiple_choice_answer": "nothing",
+    "answers": [
+      "letters",
+      "nothing",
+      "complaints about elephants to be made here",
+      "words",
+      "complaints about elephants to be made here tourist office, amber ph 530264",
+      "words and arrows",
+      "arrow",
+      "notice",
+      "nothing",
+      "complaint sign"
+    ]
+  },
+  {
+    "id": 533311,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000533311.jpg",
+    "question_type": "what color is the",
+    "question": "What color is the street light?",
+    "answer_type": "other",
+    "multiple_choice_answer": "red",
+    "answers": [
+      "amber",
+      "red",
+      "red",
+      "red",
+      "yellow",
+      "white",
+      "red",
+      "yellow",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 203372,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000203372.jpg",
+    "question_type": "who is",
+    "question": "Who is holding a sign?",
+    "answer_type": "other",
+    "multiple_choice_answer": "no one",
+    "answers": [
+      "man on left",
+      "no one",
+      "no one",
+      "no one",
+      "nobody",
+      "no one",
+      "no one",
+      "nobody",
+      "display case",
+      "no one"
+    ]
+  },
+  {
+    "id": 172979,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000172979.jpg",
+    "question_type": "is the",
+    "question": "Is the grass tall?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "id": 90284,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000090284.jpg",
+    "question_type": "what is the color of the",
+    "question": "What is the color of the pitch?",
+    "answer_type": "other",
+    "multiple_choice_answer": "orange",
+    "answers": [
+      "orange",
+      "brown",
+      "green",
+      "light brown",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "clay",
+      "orange"
+    ]
+  },
+  {
+    "id": 547630,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000547630.jpg",
+    "question_type": "where is the",
+    "question": "Where is the spoon?",
+    "answer_type": "other",
+    "multiple_choice_answer": "on saucer",
+    "answers": [
+      "on plate",
+      "on saucer",
+      "on plate",
+      "on saucer",
+      "on saucer",
+      "on saucer",
+      "plate",
+      "on saucer",
+      "on plate",
+      "dish"
+    ]
+  },
+  {
+    "id": 77924,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000077924.jpg",
+    "question_type": "what is the",
+    "question": "What is the license plate number of the car in front?",
+    "answer_type": "other",
+    "multiple_choice_answer": "jfy2228",
+    "answers": [
+      "2228",
+      "ify 2228",
+      "jfy2228",
+      "jfy2228",
+      "ify222b",
+      "jfy2228",
+      "jfy 2228",
+      "jfy 2228",
+      "222",
+      "jfy222b"
+    ]
+  },
+  {
+    "id": 529528,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000529528.jpg",
+    "question_type": "what",
+    "question": "What do you think was being mixed?",
+    "answer_type": "other",
+    "multiple_choice_answer": "cake batter",
+    "answers": [
+      "frosting",
+      "batter",
+      "cake",
+      "batter",
+      "cake batter",
+      "cake batter",
+      "cake",
+      "cake batter",
+      "cake batter",
+      "cake batter"
+    ]
+  },
+  {
+    "id": 80053,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000080053.jpg",
+    "question_type": "how many people are",
+    "question": "How many people are there?",
+    "answer_type": "number",
+    "multiple_choice_answer": "2",
+    "answers": [
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  {
+    "id": 550529,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000550529.jpg",
+    "question_type": "what color is the",
+    "question": "What color is the stripe on the bike?",
+    "answer_type": "other",
+    "multiple_choice_answer": "red",
+    "answers": [
+      "red",
+      "red",
+      "red",
+      "orange",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 123017,
+    "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000123017.jpg",
+    "question_type": "is it",
+    "question": "Is it taken in Winter?",
+    "answer_type": "yes/no",
+    "multiple_choice_answer": "no",
+    "answers": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ]
+  }
+]

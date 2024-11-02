@@ -1,0 +1,242 @@
+[
+  {
+    "id": 517382,
+    "url": "http://images.cocodataset.org/train2017/000000517382.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "A man and a woman standing next to each other in a  living room.",
+      "A pregnant lady and man standing in the middle of their living room.",
+      "There are two people playing a video game in a room.",
+      "A pregnant woman and a man in a living room.",
+      "A couple of people standing in a room with a remote."
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-22 00:18:21"
+  },
+  {
+    "id": 105689,
+    "url": "http://images.cocodataset.org/train2017/000000105689.jpg",
+    "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "captions": [
+      "a closeup of a slice of pizza covered with various ingredients",
+      "a slice of pepperoni pizza sitting on a white plate ",
+      "a piece of pizza sits on a plate on a table top ",
+      "A piece of pizza sat on a plate with a cup of soda near by.",
+      "Slice of pizza on plate sits on table with beverage."
+    ],
+    "height": 612,
+    "width": 612,
+    "date_captured": "2013-11-21 02:44:22"
+  },
+  {
+    "id": 581437,
+    "url": "http://images.cocodataset.org/train2017/000000581437.jpg",
+    "license": "http://creativecommons.org/licenses/by-nd/2.0/",
+    "captions": [
+      "A close-up of a microwave and a street cone on the driveway.",
+      "A white microwave in front of a cone.",
+      "A microwave and a cone on asphalt by bushes.",
+      "A small microwave oven sits near a caution cone.",
+      "Orange cone and microwave sitting at the curb."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-24 10:04:15"
+  },
+  {
+    "id": 221770,
+    "url": "http://images.cocodataset.org/train2017/000000221770.jpg",
+    "license": "http://creativecommons.org/licenses/by-nd/2.0/",
+    "captions": [
+      "A young girl with a downed kite in a field",
+      "A girl holding some kite string on a field.",
+      "A young girl standing next to a kite laying on the ground.",
+      "A child standing on the grass next to a kite.",
+      "A little girl is flying a kite by herself in a field."
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-22 10:55:21"
+  },
+  {
+    "id": 120969,
+    "url": "http://images.cocodataset.org/train2017/000000120969.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A group of young people riding skateboards at a skate park.",
+      "Two ladies in a slope skating as others with bicycle looks on",
+      "People riding bicycles and skateboarding at a park.",
+      "A bunch of people with skateboards and bikes at a skateboard park.",
+      "Two women skateboard in a concrete skate park."
+    ],
+    "height": 375,
+    "width": 500,
+    "date_captured": "2013-11-20 09:12:56"
+  },
+  {
+    "id": 472830,
+    "url": "http://images.cocodataset.org/train2017/000000472830.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "a lady that is walking around with a umbrella",
+      "Native woman walking in wet field with umbrella.",
+      "A woman walking in a muddy field carrying an umbrella.",
+      "An old asian lady walking through a muddy path with an umbrella.",
+      "A woman this is standing in the dirt with an umbrella."
+    ],
+    "height": 640,
+    "width": 425,
+    "date_captured": "2013-11-18 09:25:23"
+  },
+  {
+    "id": 56714,
+    "url": "http://images.cocodataset.org/train2017/000000056714.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "captions": [
+      "A banana sitting next to an orange and apples on a wooden table.",
+      "an orange on top of an apple next to a banana.",
+      "Group of spoiled fruit sitting next to each other. ",
+      "A number of various types of fruit all stacked on each other.",
+      "Banana, orange and two different types of apples."
+    ],
+    "height": 500,
+    "width": 333,
+    "date_captured": "2013-11-19 18:25:18"
+  },
+  {
+    "id": 490126,
+    "url": "http://images.cocodataset.org/train2017/000000490126.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "Two people playing a game of tennis on a tennis court.",
+      "A guy swings his tennis racket to hit the ball in the air. ",
+      "View from the stands of sparsely attended tennis match",
+      "Spectators watching a tennis match on a blue and green court",
+      "A wide shot of a tennis game with the player in white serving the ball."
+    ],
+    "height": 640,
+    "width": 427,
+    "date_captured": "2013-11-21 02:49:32"
+  },
+  {
+    "id": 523183,
+    "url": "http://images.cocodataset.org/train2017/000000523183.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "Giraffes eating off the trees while in their zoo enclosure.",
+      "two giraffes eating leaves off of a tree behind a fence",
+      "Two giraffes sitting behind a fenced in area",
+      "Two giraffes in an enclosure eating a tree.",
+      "Two giraffes are standing next to each other as they eat from a tree."
+    ],
+    "height": 640,
+    "width": 428,
+    "date_captured": "2013-11-16 18:08:31"
+  },
+  {
+    "id": 519657,
+    "url": "http://images.cocodataset.org/train2017/000000519657.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "Cattle grazing in a field, accompanied by a bird.",
+      "Several cows eating grass as a bid stands nearby.",
+      "A group of cattle grazing in an open field next to a flock of birds.",
+      "A group of cows grazing in a field.",
+      "Cows grazing in a field with birds walking around them."
+    ],
+    "height": 482,
+    "width": 640,
+    "date_captured": "2013-11-17 19:25:00"
+  },
+  {
+    "id": 36768,
+    "url": "http://images.cocodataset.org/train2017/000000036768.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A parked snow mobile siting on the side of a train.",
+      "A snowmobile on snow during the day near a train.",
+      "A snow mobile parked outside a train with people unloading cargo.",
+      "A snowmobile parked in front of a train.",
+      "Some trains are next to a snow mobile."
+    ],
+    "height": 427,
+    "width": 640,
+    "date_captured": "2013-11-17 03:44:44"
+  },
+  {
+    "id": 370278,
+    "url": "http://images.cocodataset.org/train2017/000000370278.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A table topped with cakes, coffee and desserts.",
+      "a table with many plates and dishes with food and donuts",
+      "A table is full of various donuts and other foods.",
+      "A buffet table set up with a number of foods. ",
+      "A continental breakfast is arranged on a white clothed table."
+    ],
+    "height": 375,
+    "width": 500,
+    "date_captured": "2013-11-20 17:03:40"
+  },
+  {
+    "id": 571249,
+    "url": "http://images.cocodataset.org/train2017/000000571249.jpg",
+    "license": "http://creativecommons.org/licenses/by/2.0/",
+    "captions": [
+      "A herd of cattle walking along a dirt road.",
+      "A group of cows walking down a mountain trail.",
+      "some cows walking along a trail by the side of a hill",
+      "A group of cows that are standing in grass.",
+      "A herd of cows walking along a dirt path in the mountains."
+    ],
+    "height": 480,
+    "width": 640,
+    "date_captured": "2013-11-17 19:55:12"
+  },
+  {
+    "id": 458682,
+    "url": "http://images.cocodataset.org/train2017/000000458682.jpg",
+    "license": "http://creativecommons.org/licenses/by-nd/2.0/",
+    "captions": [
+      "A pile of oranges sitting on top of each other.",
+      "A closeup of a group of oranges staked together.",
+      "a bunch of oranges are piled on top of each other ",
+      "A large pile of round oranges close together.",
+      "Groups of oranges piled up on top of each other. "
+    ],
+    "height": 357,
+    "width": 500,
+    "date_captured": "2013-11-19 19:35:35"
+  },
+  {
+    "id": 412709,
+    "url": "http://images.cocodataset.org/train2017/000000412709.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "captions": [
+      "A bed sitting next to a window with a blanket and pillows on it.",
+      "A simple quilt is covering a wooden bed.",
+      "a bed that has some kind of blanket and pillow on it",
+      "A bed that has a wooden head board on it.",
+      "Old fashioned quilt on an older style bed"
+    ],
+    "height": 640,
+    "width": 427,
+    "date_captured": "2013-11-20 23:05:36"
+  },
+  {
+    "id": 110046,
+    "url": "http://images.cocodataset.org/train2017/000000110046.jpg",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "captions": [
+      "A hand holding a glass of alcohol in the snow.",
+      "This wine goblet is half filled with wine.",
+      "Someone is standing outside in the snow holding a glass of wine.",
+      "some one with a glove on holding a sparkling drink in the cold ",
+      "Close up of half-filled wine glass with snowy residential outdoors in background."
+    ],
+    "height": 478,
+    "width": 640,
+    "date_captured": "2013-11-24 05:37:14"
+  }
+]
