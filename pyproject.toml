@@ -1,0 +1,33 @@
+[project]
+name = "vragas"
+version = "0.1.0"
+description = "Framework to assess Visual RAG Pipelines"
+authors = [
+    {name = "miohana", email = "mi_ohana@hotmail.com"},
+    {name = "rodrigocaus", email = "rodrigo.caus13@gmail.com"},
+]
+dependencies = [
+    "langchain>=0.3",
+    "pydantic>=2",
+    "pandas>=2",
+]
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[tool.pdm]
+distribution = true
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "pytest>=8.3.3",
+    "langchain-google-vertexai>=2.0.7",
+    "langchain-huggingface>=0.1.2",
+    "langchain-groq>=0.2.1",
+    "langchain-openai>=0.2.6",
+]
