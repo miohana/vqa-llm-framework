@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from typing import Dict, List, Literal, Union, TypedDict
+from typing import Any, Dict, List, Literal, Union, TypedDict
 
 
 MetricValue = Dict[str, float]
@@ -21,11 +21,16 @@ class Metric(ABC):
     name: str
 
     def __init__(self) -> None:
-        self.state = dict()
+        self.state: Dict[Id, Any] = dict()
 
     @abstractmethod
     def update(self, input: EvalInput) -> None:
         """Override this method to update the state of your metric class."""
+        return NotImplemented
+
+    @abstractmethod
+    def report(self) -> Dict[Id, Union[float, MetricValue]]:
+        """Override this method to report the state of your metric class."""
         return NotImplemented
 
     @abstractmethod

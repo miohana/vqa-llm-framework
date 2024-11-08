@@ -1,9 +1,9 @@
 import string
 from collections import Counter
 from statistics import mean
-from typing import Callable, List
+from typing import Dict, Callable, List
 
-from .base import EvalInput, MetricWithReduction, MetricValue
+from .base import EvalInput, MetricWithReduction, Id, MetricValue
 
 
 def tokenize(s: str) -> List[str]:
@@ -39,19 +39,27 @@ class F1Score(MetricWithReduction):
         ]
         self.state[input["id"]] = results
 
-    def _reduce_best(self):
-        return sum(map(max, self.state.values()))
+    def _report_best(self) -> Dict[Id, float]:
+        return {
+            id: max(results)
+            for id, results in self.state.items()
+        }
 
-    def _reduce_mean(self):
-        return sum(map(mean, self.state.values()))
+    def _report_mean(self) -> Dict[Id, float]:
+        return {
+            id: mean(results)
+            for id, results in self.state.items()
+        }
+
+    def report(self) -> Dict[Id, float]:
+        if self.reduction == "mean":
+            return self._report_mean()
+        elif self.reduction == "best":
+            return self._report_best()
+        else:
+            raise ValueError(f"Unknown reduction {self.reduction}")
 
     def compute(self) -> MetricValue:
-        N = len(self.state)
-        if self.reduction == "mean":
-            num = self._reduce_mean()
-        else:
-            num = self._reduce_best()
-
         return {
-            self.name: num/N
+            self.name: mean(self.report().values())
         }
