@@ -17,7 +17,7 @@ class F1Score(MetricWithReduction):
         F1 bag-of-words metric.
     """
     name = "f1"
-    tokenizer: Callable[[str], List[str]] = tokenize
+    tokenizer: Callable[[str], List[str]] = staticmethod(tokenize)
 
     def _f1(self, pred: str, ref: str) -> float:
         prediction_tokens = self.tokenizer(pred)
