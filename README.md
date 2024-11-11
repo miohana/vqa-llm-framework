@@ -24,9 +24,10 @@ f1_score.compute()
 
 # Developing
 
-Requirments:
+Requirements:
  - [PDM](https://pdm-project.org/en/latest/)
  - Python 3.12 or higher
+ - In case of using Hugging Face models (e.g. PaliGemma), remember to set the HF_TOKEN (currently, we are expecting you to setup in our code).
 
 ## Setup
 Run the command:
