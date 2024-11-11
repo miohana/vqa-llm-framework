@@ -1,0 +1,542 @@
+[
+    {
+        "id": 293832,
+        "model_name": "paligemma",
+        "question": "How many toothbrushes are there?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000293832.jpg",
+        "model_answer": "6",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 129592,
+        "model_name": "paligemma",
+        "question": "Is this a typical US hydrant?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000129592.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 13729,
+        "model_name": "paligemma",
+        "question": "What color is her hair?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000013729.jpg",
+        "model_answer": "brown",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 379086,
+        "model_name": "paligemma",
+        "question": "Are the lights on?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000379086.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 96618,
+        "model_name": "paligemma",
+        "question": "Does the dog like outside?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000096618.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 28682,
+        "model_name": "paligemma",
+        "question": "Is there a fruit basket on the counter?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000028682.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 137727,
+        "model_name": "paligemma",
+        "question": "What is being loaded onto the train?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000137727.jpg",
+        "model_answer": "luggage",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 381842,
+        "model_name": "paligemma",
+        "question": "Does the name of the street relate to Greek pleasure?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000381842.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 449522,
+        "model_name": "paligemma",
+        "question": "What are the people eating?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000449522.jpg",
+        "model_answer": "sandwich",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 304186,
+        "model_name": "paligemma",
+        "question": "What color is the game controller?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000304186.jpg",
+        "model_answer": "white",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 458467,
+        "model_name": "paligemma",
+        "question": "What are the animals eating?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000458467.jpg",
+        "model_answer": "leaves",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 503978,
+        "model_name": "paligemma",
+        "question": "Can a vegan eat this food?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000503978.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 121849,
+        "model_name": "paligemma",
+        "question": "Is the child using the bathroom?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000121849.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 499281,
+        "model_name": "paligemma",
+        "question": "Where is microwave?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000499281.jpg",
+        "model_answer": "above stove",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 155897,
+        "model_name": "paligemma",
+        "question": "Is a healthy food?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000155897.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 180739,
+        "model_name": "paligemma",
+        "question": "How tall is the wave?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180739.jpg",
+        "model_answer": "short",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 57760,
+        "model_name": "paligemma",
+        "question": "Do you see any motorized vehicles?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000057760.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 422383,
+        "model_name": "paligemma",
+        "question": "Is there water in this photo?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000422383.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 425898,
+        "model_name": "paligemma",
+        "question": "What phone number is on the sign?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000425898.jpg",
+        "model_answer": "765-4201",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 74037,
+        "model_name": "paligemma",
+        "question": "What are on the heads?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000074037.jpg",
+        "model_answer": "horns",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 342100,
+        "model_name": "paligemma",
+        "question": "Are there any baby horses?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000342100.jpg",
+        "model_answer": "yes",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 404462,
+        "model_name": "paligemma",
+        "question": "What is reflecting in the mirror?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000404462.jpg",
+        "model_answer": "wall",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 131152,
+        "model_name": "paligemma",
+        "question": "Are these people wet?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000131152.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 363241,
+        "model_name": "paligemma",
+        "question": "Should the child eat what is in the pan?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000363241.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 436865,
+        "model_name": "paligemma",
+        "question": "Are his spots black?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000436865.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 438269,
+        "model_name": "paligemma",
+        "question": "Is this bird running?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000438269.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 180521,
+        "model_name": "paligemma",
+        "question": "What color hair does the girl in the red shirt have?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180521.jpg",
+        "model_answer": "blonde",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 228344,
+        "model_name": "paligemma",
+        "question": "What color shirt is the person wearing?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000228344.jpg",
+        "model_answer": "blue",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 341678,
+        "model_name": "paligemma",
+        "question": "How many balls are on the racket the boy is holding?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000341678.jpg",
+        "model_answer": "1",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 525369,
+        "model_name": "paligemma",
+        "question": "Do you see a giant teddy bear?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000525369.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 207611,
+        "model_name": "paligemma",
+        "question": "How many blue umbrellas are in the background?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000207611.jpg",
+        "model_answer": "2",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 299970,
+        "model_name": "paligemma",
+        "question": "What does the sign say?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000299970.jpg",
+        "model_answer": "parking",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 236925,
+        "model_name": "paligemma",
+        "question": "How many hooves are visible?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000236925.jpg",
+        "model_answer": "4",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 341309,
+        "model_name": "paligemma",
+        "question": "Can the woman tell the time?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000341309.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 437117,
+        "model_name": "paligemma",
+        "question": "What color is the line on the tennis court?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000437117.jpg",
+        "model_answer": "white",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 212739,
+        "model_name": "paligemma",
+        "question": "Is the guy on flat ground?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000212739.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 83736,
+        "model_name": "paligemma",
+        "question": "What kind of vehicle is this?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000083736.jpg",
+        "model_answer": "bus",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 512869,
+        "model_name": "paligemma",
+        "question": "What utensil is on the woman's napkin?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000512869.jpg",
+        "model_answer": "fork",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 168583,
+        "model_name": "paligemma",
+        "question": "Based on the clothing of the people, which season was it when this picture was taken?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000168583.jpg",
+        "model_answer": "winter",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 451308,
+        "model_name": "paligemma",
+        "question": "What items does this person collect?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000451308.jpg",
+        "model_answer": "suitcases",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 432234,
+        "model_name": "paligemma",
+        "question": "How many stuffed toys are pictured?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000432234.jpg",
+        "model_answer": "2",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 485909,
+        "model_name": "paligemma",
+        "question": "Are these people happy?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000485909.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 556758,
+        "model_name": "paligemma",
+        "question": "Where are the horse standing?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000556758.jpg",
+        "model_answer": "field",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 274272,
+        "model_name": "paligemma",
+        "question": "What is on the bus?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000274272.jpg",
+        "model_answer": "prepay only",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 408039,
+        "model_name": "paligemma",
+        "question": "Who is standing in the picture?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000408039.jpg",
+        "model_answer": "boy",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 90640,
+        "model_name": "paligemma",
+        "question": "Is this a recent picture?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000090640.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 388770,
+        "model_name": "paligemma",
+        "question": "Is the sky overcast?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000388770.jpg",
+        "model_answer": "yes",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 48739,
+        "model_name": "paligemma",
+        "question": "Who has the camera?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000048739.jpg",
+        "model_answer": "man",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 287570,
+        "model_name": "paligemma",
+        "question": "What color is the skier's jacket?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000287570.jpg",
+        "model_answer": "pink",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 75426,
+        "model_name": "paligemma",
+        "question": "What is drawn on the paper?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000075426.jpg",
+        "model_answer": "arrow",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 533311,
+        "model_name": "paligemma",
+        "question": "What color is the street light?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000533311.jpg",
+        "model_answer": "red",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 203372,
+        "model_name": "paligemma",
+        "question": "Who is holding a sign?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000203372.jpg",
+        "model_answer": "man",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 172979,
+        "model_name": "paligemma",
+        "question": "Is the grass tall?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000172979.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 90284,
+        "model_name": "paligemma",
+        "question": "What is the color of the pitch?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000090284.jpg",
+        "model_answer": "brown",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 547630,
+        "model_name": "paligemma",
+        "question": "Where is the spoon?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000547630.jpg",
+        "model_answer": "saucer",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 77924,
+        "model_name": "paligemma",
+        "question": "What is the license plate number of the car in front?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000077924.jpg",
+        "model_answer": "fx 1778",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 529528,
+        "model_name": "paligemma",
+        "question": "What do you think was being mixed?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000529528.jpg",
+        "model_answer": "dough",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 80053,
+        "model_name": "paligemma",
+        "question": "How many people are there?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000080053.jpg",
+        "model_answer": "2",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 550529,
+        "model_name": "paligemma",
+        "question": "What color is the stripe on the bike?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000550529.jpg",
+        "model_answer": "red",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 123017,
+        "model_name": "paligemma",
+        "question": "Is it taken in Winter?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000123017.jpg",
+        "model_answer": "no",
+        "faithfulness": 0,
+        "relevancy": 0
+    }
+]
