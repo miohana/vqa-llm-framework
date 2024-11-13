@@ -1,0 +1,51 @@
+id,question,url,model_answer,model_namide140420,Is the bike in a state of disrepair or does it appear ready to ride?,http://images.cocodataset.org/val2017/000000140420.jpg,ready to ride,paligemmida237864,What appears to be the relationship between the elephant and the dog in the image?,http://images.cocodataset.org/val2017/000000237864.jpg,enemy,paligemmida181753,Is the room depicted in the image a part of a home or a commercial space?,http://images.cocodataset.org/val2017/000000181753.jpg,home,paligemmida252219,What is the location of the city where the scene is taking place?,http://images.cocodataset.org/val2017/000000252219.jpg,nyc,paligemmida108440,What type of cargo or passengers does the train appear to be carrying?,http://images.cocodataset.org/val2017/000000108440.jpg,passenger,paligemmida224337,What appears to be the expression or emotion on the man's face as he holds the piece of bread in his mouth?,http://images.cocodataset.org/val2017/000000224337.jpg,neutral,paligemmida499109,What is the type of cuisine or meal that this sandwich is typically associated with?,http://images.cocodataset.org/val2017/000000499109.jpg,american,paligemmida28285,What is the name or significance of the building with the clock tower?,http://images.cocodataset.org/val2017/000000028285.jpg,church,paligemmida454750,What appears to be the reason or context for the zebras' unusual head-resting behavior?,http://images.cocodataset.org/val2017/000000454750.jpg,hot,paligemmida412240,What is the puppy's apparent interest in the pair of shoes?,http://images.cocodataset.org/val2017/000000412240.jpg,curious,paligemmaid
+441286,What sport or activity is the person participating in?,http://images.cocodataset.org/val2017/000000441286.jpg,surfing,paligemmaid
+568213,Is the man playing with someone else in the field or by himself?,http://images.cocodataset.org/val2017/000000568213.jpg,someone else,paligemmaid
+414034,What is the little boy watching on the TV?,http://images.cocodataset.org/val2017/000000414034.jpg,cartoon,paligemmaid
+459634,"What type of vehicle is it likely to be, based on the presence of a metal rack and an antennae?",http://images.cocodataset.org/val2017/000000459634.jpg,motorcycle,paligemmaid
+66635,Is the person using the computer present in the image?,http://images.cocodataset.org/val2017/000000066635.jpg,no,paligemmaid
+343706,What pattern or design is used in the crocheted phone case?,http://images.cocodataset.org/val2017/000000343706.jpg,diamond,paligemmaid
+357238,What is the weather like in the background while the person is flying the kite?,http://images.cocodataset.org/val2017/000000357238.jpg,cloudy,paligemmaid
+553664,Is the laptop turned on or off in the image?,http://images.cocodataset.org/val2017/000000553664.jpg,on,paligemmaid
+258388,Is the man lighting the spray can trying to set the skateboarder on fire or is it part of a stunt or trick?,http://images.cocodataset.org/val2017/000000258388.jpg,stunt,paligemmaid
+222094,Why is a stop sign placed in a seemingly remote and rocky field?,http://images.cocodataset.org/val2017/000000222094.jpg,to warn,paligemmaid
+281179,Is the street in a city or a small town?,http://images.cocodataset.org/val2017/000000281179.jpg,city,paligemmaid
+260106,What appears to be the occasion or event that is taking place in the background?,http://images.cocodataset.org/val2017/000000260106.jpg,horse jumping,paligemmaid
+162543,What type of enclosure or habitat is provided for the elephants in the zoo?,http://images.cocodataset.org/val2017/000000162543.jpg,zoo,paligemmaid
+366199,Is the small cat sleeping under the blankets?,http://images.cocodataset.org/val2017/000000366199.jpg,no,paligemmaid
+329323,What is the item being unwrapped?,http://images.cocodataset.org/val2017/000000329323.jpg,sheet,paligemmaid
+157601,What type of drink is the woman having with her sandwich?,http://images.cocodataset.org/val2017/000000157601.jpg,coffee,paligemmaid
+447314,What is the relationship between the woman and the young child?,http://images.cocodataset.org/val2017/000000447314.jpg,mother,paligemmaid
+489764,Are they competing against each other in the video game?,http://images.cocodataset.org/val2017/000000489764.jpg,no,paligemmaid
+1818,What is the environment or setting where the baby zebra is nursing from its mother?,http://images.cocodataset.org/val2017/000000001818.jpg,field,paligemmaid
+368982,What appears to be the person's intention or activity with the scissors and fabric?,http://images.cocodataset.org/val2017/000000368982.jpg,cutting,paligemmaid
+550349,What appears to be the destination or purpose of the orange bus?,http://images.cocodataset.org/val2017/000000550349.jpg,burbank station,paligemmaid
+112110,"What is the person doing with the briefcase, or is it just an obstacle?",http://images.cocodataset.org/val2017/000000112110.jpg,obstacle,paligemmaid
+532129,What toppings can be seen on the pizza?,http://images.cocodataset.org/val2017/000000532129.jpg,cheese,paligemmaid
+220732,Is the bus empty or are there passengers inside?,http://images.cocodataset.org/val2017/000000220732.jpg,empty,paligemmaid
+275749,What activity or task appears to be the focus of the group of people around the computer monitors?,http://images.cocodataset.org/val2017/000000275749.jpg,music,paligemmaid
+176778,What is the cat doing next to the bathtub?,http://images.cocodataset.org/val2017/000000176778.jpg,looking,paligemmaid
+407083,Is the car moving or parked?,http://images.cocodataset.org/val2017/000000407083.jpg,moving,paligemmaid
+215723,What are the workers doing under the fluorescent orange umbrella?,http://images.cocodataset.org/val2017/000000215723.jpg,eating,paligemmaid
+509719,What type of bird is it and is it injured or just resting on the ground?,http://images.cocodataset.org/val2017/000000509719.jpg,quail,paligemmaid
+3845,What type of meal or cuisine is on the plate?,http://images.cocodataset.org/val2017/000000003845.jpg,chinese,paligemmaid
+2153,Is the male tennis player preparing to serve or waiting for the opponent's serve?,http://images.cocodataset.org/val2017/000000002153.jpg,serve,paligemmaid
+541773,What appears to be the occasion or event with multiple glasses of wine on the table?,http://images.cocodataset.org/val2017/000000541773.jpg,party,paligemmaid
+161128,What is the original intended message or warning on the traffic sign before it was vandalized?,http://images.cocodataset.org/val2017/000000161128.jpg,no parking,paligemmaid
+186938,What type of bird is standing in the sand?,http://images.cocodataset.org/val2017/000000186938.jpg,seagull,paligemmaid
+33759,Is the boy hitting the baseball in a professional game or just practicing his swing?,http://images.cocodataset.org/val2017/000000033759.jpg,practicing,paligemmaid
+309678,What type of cuisine are the sauce-covered foods on the tray?,http://images.cocodataset.org/val2017/000000309678.jpg,italian,paligemmaid
+29397,What does the sign next to the man say?,http://images.cocodataset.org/val2017/000000029397.jpg,no money no job no home,paligemmaid
+61471,How old is the puppy in the image?,http://images.cocodataset.org/val2017/000000061471.jpg,4 weeks,paligemmaid
+7888,Is the pedestal clock located indoors or outdoors in the rainy sky?,http://images.cocodataset.org/val2017/000000007888.jpg,An error occurred while generating the response.,paligemmaid
+161642,What style or era is the clock from?,http://images.cocodataset.org/val2017/000000161642.jpg,1900s,paligemmaid
+127517,Is the location in the caption a popular surfing spot?,http://images.cocodataset.org/val2017/000000127517.jpg,yes,paligemmaid
+217614,What appears to be the giraffe's activity or behavior in the brush near the trees?,http://images.cocodataset.org/val2017/000000217614.jpg,standing,paligemmaid
+137950,What type of plane is depicted in the old photograph?,http://images.cocodataset.org/val2017/000000137950.jpg,propeller,paligemmaid
+186345,"Are the sea horses in their natural habitat or in a controlled environment, such as an aquarium?",http://images.cocodataset.org/val2017/000000186345.jpg,controlled,paligemmaid
+573258,Is the woman actively skiing or standing still in the image?,http://images.cocodataset.org/val2017/000000573258.jpg,standing still,paligemmaid
+400082,"Are the boxes of takeout food being eaten by someone, or are they unattended?",http://images.cocodataset.org/val2017/000000400082.jpg,unattended,paligemmaid
+537241,Is the cinnamon roll homemade or store-bought?,http://images.cocodataset.org/val2017/000000537241.jpg,store bought,paligemmaid
+103723,What is the woman's expression or reaction as she watches the elephant?,http://images.cocodataset.org/val2017/000000103723.jpg,interest,paligemmaid
+350122,What city or country is the bus station located in?,http://images.cocodataset.org/val2017/000000350122.jpg,g,paligemmaid
+293474,What is the type of storefront visible in the background near the fire hydrant?,http://images.cocodataset.org/val2017/000000293474.jpg,clothing,paligemma

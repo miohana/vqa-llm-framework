@@ -1,0 +1,61 @@
+id,url,question,model_answer,model_name
+293832,http://images.cocodataset.org/val2014/COCO_val2014_000000293832.jpg,How many toothbrushes are there?,There are 4 toothbrushes.,llama-3.2-90b
+129592,http://images.cocodataset.org/val2014/COCO_val2014_000000129592.jpg,Is this a typical US hydrant?,"No, this is not a typical US hydrant, as it has a chain attached to the valve, which is not commonly found on US hydrants.",llama-3.2-90b
+13729,http://images.cocodataset.org/val2014/COCO_val2014_000000013729.jpg,What color is her hair?,Her hair is brown.,llama-3.2-90b
+379086,http://images.cocodataset.org/val2014/COCO_val2014_000000379086.jpg,Are the lights on?,"Yes, the lights are on.",llama-3.2-90b
+96618,http://images.cocodataset.org/val2014/COCO_val2014_000000096618.jpg,Does the dog like outside?,"The dog appears to be looking out the door, suggesting that it might be interested in going outside.",llama-3.2-90b
+28682,http://images.cocodataset.org/val2014/COCO_val2014_000000028682.jpg,Is there a fruit basket on the counter?,"Yes, there is a fruit basket on the counter.",llama-3.2-90b
+137727,http://images.cocodataset.org/val2014/COCO_val2014_000000137727.jpg,What is being loaded onto the train?,The train is being loaded with luggage.,llama-3.2-90b
+381842,http://images.cocodataset.org/val2014/COCO_val2014_000000381842.jpg,Does the name of the street relate to Greek pleasure?,The name of the street does not relate to Greek pleasure.,llama-3.2-90b
+449522,http://images.cocodataset.org/val2014/COCO_val2014_000000449522.jpg,What are the people eating?,The people are eating a sandwich and chips.,llama-3.2-90b
+304186,http://images.cocodataset.org/val2014/COCO_val2014_000000304186.jpg,What color is the game controller?,The game controller is white.,llama-3.2-90b
+458467,http://images.cocodataset.org/val2014/COCO_val2014_000000458467.jpg,What are the animals eating?,The animals are eating grass.,llama-3.2-90b
+503978,http://images.cocodataset.org/val2014/COCO_val2014_000000503978.jpg,Can a vegan eat this food?,"A vegan can eat this food because it is pasta with broccoli, which are both plant-based ingredients.",llama-3.2-90b
+121849,http://images.cocodataset.org/val2014/COCO_val2014_000000121849.jpg,Is the child using the bathroom?,The child is not using the bathroom.,llama-3.2-90b
+499281,http://images.cocodataset.org/val2014/COCO_val2014_000000499281.jpg,Where is microwave?,The microwave is on the top left of the image.,llama-3.2-90b
+155897,http://images.cocodataset.org/val2014/COCO_val2014_000000155897.jpg,Is a healthy food?,"Yes, it is a healthy food.",llama-3.2-90b
+180739,http://images.cocodataset.org/val2014/COCO_val2014_000000180739.jpg,How tall is the wave?,The wave is approximately as tall as the surfboard.,llama-3.2-90b
+57760,http://images.cocodataset.org/val2014/COCO_val2014_000000057760.jpg,Do you see any motorized vehicles?,There is one motorized vehicle in the image.,llama-3.2-90b
+422383,http://images.cocodataset.org/val2014/COCO_val2014_000000422383.jpg,Is there water in this photo?,"There is no water in this photo, but the sand suggests that it is likely taken near a beach.",llama-3.2-90b
+425898,http://images.cocodataset.org/val2014/COCO_val2014_000000425898.jpg,What phone number is on the sign?,The phone number on the sign is 896-4247.,llama-3.2-90b
+74037,http://images.cocodataset.org/val2014/COCO_val2014_000000074037.jpg,What are on the heads?,The heads have horns on them.,llama-3.2-90b
+342100,http://images.cocodataset.org/val2014/COCO_val2014_000000342100.jpg,Are there any baby horses?,"Yes, there is a baby horse.",llama-3.2-90b
+404462,http://images.cocodataset.org/val2014/COCO_val2014_000000404462.jpg,What is reflecting in the mirror?,The mirror is reflecting a hairbrush.,llama-3.2-90b
+131152,http://images.cocodataset.org/val2014/COCO_val2014_000000131152.jpg,Are these people wet?,"Yes, the individuals in the image appear to be wet, as they are in the water and wearing wetsuits.",llama-3.2-90b
+363241,http://images.cocodataset.org/val2014/COCO_val2014_000000363241.jpg,Should the child eat what is in the pan?,"No, there does not appear to be a child in the image.",llama-3.2-90b
+436865,http://images.cocodataset.org/val2014/COCO_val2014_000000436865.jpg,Are his spots black?,The giraffe's spots are brown.,llama-3.2-90b
+438269,http://images.cocodataset.org/val2014/COCO_val2014_000000438269.jpg,Is this bird running?,"No, the bird is not running; it appears to be standing still.",llama-3.2-90b
+180521,http://images.cocodataset.org/val2014/COCO_val2014_000000180521.jpg,What color hair does the girl in the red shirt have?,The girl in the red shirt has blonde hair.,llama-3.2-90b
+228344,http://images.cocodataset.org/val2014/COCO_val2014_000000228344.jpg,What color shirt is the person wearing?,The person is wearing a blue shirt.,llama-3.2-90b
+341678,http://images.cocodataset.org/val2014/COCO_val2014_000000341678.jpg,How many balls are on the racket the boy is holding?,There are no balls on the racket the boy is holding.,llama-3.2-90b
+525369,http://images.cocodataset.org/val2014/COCO_val2014_000000525369.jpg,Do you see a giant teddy bear?,"No, there is no giant teddy bear in the image.",llama-3.2-90b
+207611,http://images.cocodataset.org/val2014/COCO_val2014_000000207611.jpg,How many blue umbrellas are in the background?,There are three blue umbrellas in the background.,llama-3.2-90b
+299970,http://images.cocodataset.org/val2014/COCO_val2014_000000299970.jpg,What does the sign say?,The sign says PARKING AUTHORITY TRAP YOU'LL GET $76.00.,llama-3.2-90b
+236925,http://images.cocodataset.org/val2014/COCO_val2014_000000236925.jpg,How many hooves are visible?,There are 3 hooves visible.,llama-3.2-90b
+341309,http://images.cocodataset.org/val2014/COCO_val2014_000000341309.jpg,Can the woman tell the time?,"Yes, the woman can tell the time.",llama-3.2-90b
+437117,http://images.cocodataset.org/val2014/COCO_val2014_000000437117.jpg,What color is the line on the tennis court?,The line on the tennis court is white.,llama-3.2-90b
+212739,http://images.cocodataset.org/val2014/COCO_val2014_000000212739.jpg,Is the guy on flat ground?,"No, the guy is not on flat ground.",llama-3.2-90b
+83736,http://images.cocodataset.org/val2014/COCO_val2014_000000083736.jpg,What kind of vehicle is this?,The vehicle in the image is a bus.,llama-3.2-90b
+512869,http://images.cocodataset.org/val2014/COCO_val2014_000000512869.jpg,What utensil is on the woman's napkin?,The utensil on the woman's napkin is a spoon.,llama-3.2-90b
+168583,http://images.cocodataset.org/val2014/COCO_val2014_000000168583.jpg,"Based on the clothing of the people, which season was it when this picture was taken?",The image was captured during winter.,llama-3.2-90b
+451308,http://images.cocodataset.org/val2014/COCO_val2014_000000451308.jpg,What items does this person collect?,The person collects suitcases and cassette tapes.,llama-3.2-90b
+432234,http://images.cocodataset.org/val2014/COCO_val2014_000000432234.jpg,How many stuffed toys are pictured?,There are 2 stuffed toys pictured.,llama-3.2-90b
+485909,http://images.cocodataset.org/val2014/COCO_val2014_000000485909.jpg,Are these people happy?,The people in the image do not appear to be happy.,llama-3.2-90b
+556758,http://images.cocodataset.org/val2014/COCO_val2014_000000556758.jpg,Where are the horse standing?,The horses are standing in a field.,llama-3.2-90b
+274272,http://images.cocodataset.org/val2014/COCO_val2014_000000274272.jpg,What is on the bus?,"The bus has the words ""PREPAY ONLY M20"" on it.",llama-3.2-90b
+408039,http://images.cocodataset.org/val2014/COCO_val2014_000000408039.jpg,Who is standing in the picture?,The person standing in the picture is FAGL.,llama-3.2-90b
+90640,http://images.cocodataset.org/val2014/COCO_val2014_000000090640.jpg,Is this a recent picture?,"No, based on the image, it appears to be an older picture, likely from the 1960s or 1970s, given the style of the cars and the presence of elephants on a city street.",llama-3.2-90b
+388770,http://images.cocodataset.org/val2014/COCO_val2014_000000388770.jpg,Is the sky overcast?,The sky appears to be overcast.,llama-3.2-90b
+48739,http://images.cocodataset.org/val2014/COCO_val2014_000000048739.jpg,Who has the camera?,The man has the camera.,llama-3.2-90b
+287570,http://images.cocodataset.org/val2014/COCO_val2014_000000287570.jpg,What color is the skier's jacket?,The skier's jacket is pink.,llama-3.2-90b
+75426,http://images.cocodataset.org/val2014/COCO_val2014_000000075426.jpg,What is drawn on the paper?,"The image is a sign with text, not a drawing on paper.",llama-3.2-90b
+533311,http://images.cocodataset.org/val2014/COCO_val2014_000000533311.jpg,What color is the street light?,The street light is red.,llama-3.2-90b
+203372,http://images.cocodataset.org/val2014/COCO_val2014_000000203372.jpg,Who is holding a sign?,No one is holding a sign.,llama-3.2-90b
+172979,http://images.cocodataset.org/val2014/COCO_val2014_000000172979.jpg,Is the grass tall?,The grass is not tall.,llama-3.2-90b
+90284,http://images.cocodataset.org/val2014/COCO_val2014_000000090284.jpg,What is the color of the pitch?,The color of the pitch is brown.,llama-3.2-90b
+547630,http://images.cocodataset.org/val2014/COCO_val2014_000000547630.jpg,Where is the spoon?,The spoon is on the saucer.,llama-3.2-90b
+77924,http://images.cocodataset.org/val2014/COCO_val2014_000000077924.jpg,What is the license plate number of the car in front?,The license plate number of the car in front is IFY 2228.,llama-3.2-90b
+529528,http://images.cocodataset.org/val2014/COCO_val2014_000000529528.jpg,What do you think was being mixed?,"The image shows a mixing bowl containing a creamy, light-colored mixture, which is likely buttercream frosting or a similar sweet spread.",llama-3.2-90b
+80053,http://images.cocodataset.org/val2014/COCO_val2014_000000080053.jpg,How many people are there?,There are two people in the image.,llama-3.2-90b
+550529,http://images.cocodataset.org/val2014/COCO_val2014_000000550529.jpg,What color is the stripe on the bike?,The stripe on the bike is red.,llama-3.2-90b
+123017,http://images.cocodataset.org/val2014/COCO_val2014_000000123017.jpg,Is it taken in Winter?,"The image was not taken in winter, as evidenced by the presence of blooming flowers and lush greenery.",llama-3.2-90b
