@@ -1,0 +1,482 @@
+[
+    {
+        "id": 293832,
+        "question": "How many toothbrushes are there?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000293832.jpg",
+        "model_answer": "There are 4 toothbrushes.",
+        "faithfulness": 0,
+        "relevancy": 1
+    },
+    {
+        "id": 129592,
+        "question": "Is this a typical US hydrant?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000129592.jpg",
+        "model_answer": "No, this is not a typical US hydrant, as it has a chain attached to the valve, which is not commonly found on US hydrants.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 13729,
+        "question": "What color is her hair?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000013729.jpg",
+        "model_answer": "Her hair is brown.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 379086,
+        "question": "Are the lights on?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000379086.jpg",
+        "model_answer": "Yes, the lights are on.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 96618,
+        "question": "Does the dog like outside?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000096618.jpg",
+        "model_answer": "The dog appears to be looking out the door, suggesting that it might be interested in going outside.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 28682,
+        "question": "Is there a fruit basket on the counter?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000028682.jpg",
+        "model_answer": "Yes, there is a fruit basket on the counter.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 137727,
+        "question": "What is being loaded onto the train?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000137727.jpg",
+        "model_answer": "The train is being loaded with luggage.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 381842,
+        "question": "Does the name of the street relate to Greek pleasure?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000381842.jpg",
+        "model_answer": "The name of the street does not relate to Greek pleasure.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 449522,
+        "question": "What are the people eating?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000449522.jpg",
+        "model_answer": "The people are eating a sandwich and chips.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 304186,
+        "question": "What color is the game controller?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000304186.jpg",
+        "model_answer": "The game controller is white.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 458467,
+        "question": "What are the animals eating?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000458467.jpg",
+        "model_answer": "The animals are eating grass.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 503978,
+        "question": "Can a vegan eat this food?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000503978.jpg",
+        "model_answer": "A vegan can eat this food because it is pasta with broccoli, which are both plant-based ingredients.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 121849,
+        "question": "Is the child using the bathroom?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000121849.jpg",
+        "model_answer": "The child is not using the bathroom.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 499281,
+        "question": "Where is microwave?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000499281.jpg",
+        "model_answer": "The microwave is on the top left of the image.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 155897,
+        "question": "Is a healthy food?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000155897.jpg",
+        "model_answer": "Yes, it is a healthy food.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 180739,
+        "question": "How tall is the wave?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180739.jpg",
+        "model_answer": "The wave is approximately as tall as the surfboard.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 57760,
+        "question": "Do you see any motorized vehicles?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000057760.jpg",
+        "model_answer": "There is one motorized vehicle in the image.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 422383,
+        "question": "Is there water in this photo?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000422383.jpg",
+        "model_answer": "There is no water in this photo, but the sand suggests that it is likely taken near a beach.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 425898,
+        "question": "What phone number is on the sign?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000425898.jpg",
+        "model_answer": "The phone number on the sign is 896-4247.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 74037,
+        "question": "What are on the heads?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000074037.jpg",
+        "model_answer": "The heads have horns on them.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 342100,
+        "question": "Are there any baby horses?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000342100.jpg",
+        "model_answer": "Yes, there is a baby horse.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 404462,
+        "question": "What is reflecting in the mirror?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000404462.jpg",
+        "model_answer": "The mirror is reflecting a hairbrush.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 131152,
+        "question": "Are these people wet?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000131152.jpg",
+        "model_answer": "Yes, the individuals in the image appear to be wet, as they are in the water and wearing wetsuits.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 363241,
+        "question": "Should the child eat what is in the pan?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000363241.jpg",
+        "model_answer": "No, there does not appear to be a child in the image.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 436865,
+        "question": "Are his spots black?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000436865.jpg",
+        "model_answer": "The giraffe's spots are brown.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 438269,
+        "question": "Is this bird running?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000438269.jpg",
+        "model_answer": "No, the bird is not running; it appears to be standing still.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 180521,
+        "question": "What color hair does the girl in the red shirt have?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000180521.jpg",
+        "model_answer": "The girl in the red shirt has blonde hair.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 228344,
+        "question": "What color shirt is the person wearing?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000228344.jpg",
+        "model_answer": "The person is wearing a blue shirt.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 341678,
+        "question": "How many balls are on the racket the boy is holding?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000341678.jpg",
+        "model_answer": "There are no balls on the racket the boy is holding.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 525369,
+        "question": "Do you see a giant teddy bear?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000525369.jpg",
+        "model_answer": "No, there is no giant teddy bear in the image.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 207611,
+        "question": "How many blue umbrellas are in the background?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000207611.jpg",
+        "model_answer": "There are three blue umbrellas in the background.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 299970,
+        "question": "What does the sign say?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000299970.jpg",
+        "model_answer": "The sign says PARKING AUTHORITY TRAP YOU'LL GET $76.00.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 236925,
+        "question": "How many hooves are visible?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000236925.jpg",
+        "model_answer": "There are 3 hooves visible.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 341309,
+        "question": "Can the woman tell the time?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000341309.jpg",
+        "model_answer": "Yes, the woman can tell the time.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 437117,
+        "question": "What color is the line on the tennis court?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000437117.jpg",
+        "model_answer": "The line on the tennis court is white.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 212739,
+        "question": "Is the guy on flat ground?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000212739.jpg",
+        "model_answer": "No, the guy is not on flat ground.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 83736,
+        "question": "What kind of vehicle is this?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000083736.jpg",
+        "model_answer": "The vehicle in the image is a bus.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 512869,
+        "question": "What utensil is on the woman's napkin?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000512869.jpg",
+        "model_answer": "The utensil on the woman's napkin is a spoon.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 168583,
+        "question": "Based on the clothing of the people, which season was it when this picture was taken?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000168583.jpg",
+        "model_answer": "The image was captured during winter.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 451308,
+        "question": "What items does this person collect?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000451308.jpg",
+        "model_answer": "The person collects suitcases and cassette tapes.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 432234,
+        "question": "How many stuffed toys are pictured?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000432234.jpg",
+        "model_answer": "There are 2 stuffed toys pictured.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 485909,
+        "question": "Are these people happy?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000485909.jpg",
+        "model_answer": "The people in the image do not appear to be happy.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 556758,
+        "question": "Where are the horse standing?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000556758.jpg",
+        "model_answer": "The horses are standing in a field.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 274272,
+        "question": "What is on the bus?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000274272.jpg",
+        "model_answer": "The bus has the words \"PREPAY ONLY M20\" on it.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 408039,
+        "question": "Who is standing in the picture?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000408039.jpg",
+        "model_answer": "The person standing in the picture is FAGL.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 90640,
+        "question": "Is this a recent picture?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000090640.jpg",
+        "model_answer": "No, based on the image, it appears to be an older picture, likely from the 1960s or 1970s, given the style of the cars and the presence of elephants on a city street.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 388770,
+        "question": "Is the sky overcast?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000388770.jpg",
+        "model_answer": "The sky appears to be overcast.",
+        "faithfulness": 0,
+        "relevancy": 1
+    },
+    {
+        "id": 48739,
+        "question": "Who has the camera?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000048739.jpg",
+        "model_answer": "The man has the camera.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 287570,
+        "question": "What color is the skier's jacket?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000287570.jpg",
+        "model_answer": "The skier's jacket is pink.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 75426,
+        "question": "What is drawn on the paper?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000075426.jpg",
+        "model_answer": "The image is a sign with text, not a drawing on paper.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 533311,
+        "question": "What color is the street light?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000533311.jpg",
+        "model_answer": "The street light is red.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 203372,
+        "question": "Who is holding a sign?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000203372.jpg",
+        "model_answer": "No one is holding a sign.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 172979,
+        "question": "Is the grass tall?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000172979.jpg",
+        "model_answer": "The grass is not tall.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 90284,
+        "question": "What is the color of the pitch?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000090284.jpg",
+        "model_answer": "The color of the pitch is brown.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 547630,
+        "question": "Where is the spoon?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000547630.jpg",
+        "model_answer": "The spoon is on the saucer.",
+        "faithfulness": 0,
+        "relevancy": 1
+    },
+    {
+        "id": 77924,
+        "question": "What is the license plate number of the car in front?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000077924.jpg",
+        "model_answer": "The license plate number of the car in front is IFY 2228.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 529528,
+        "question": "What do you think was being mixed?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000529528.jpg",
+        "model_answer": "The image shows a mixing bowl containing a creamy, light-colored mixture, which is likely buttercream frosting or a similar sweet spread.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 80053,
+        "question": "How many people are there?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000080053.jpg",
+        "model_answer": "There are two people in the image.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 550529,
+        "question": "What color is the stripe on the bike?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000550529.jpg",
+        "model_answer": "The stripe on the bike is red.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 123017,
+        "question": "Is it taken in Winter?",
+        "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000123017.jpg",
+        "model_answer": "The image was not taken in winter, as evidenced by the presence of blooming flowers and lush greenery.",
+        "faithfulness": 1,
+        "relevancy": 1
+    }
+]

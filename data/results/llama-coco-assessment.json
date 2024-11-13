@@ -1,0 +1,482 @@
+[
+    {
+        "id": 140420,
+        "question": "Is the bike in a state of disrepair or does it appear ready to ride?",
+        "url": "http://images.cocodataset.org/val2017/000000140420.jpg",
+        "model_answer": "The motorcycle appears to be in a state of readiness, with no visible signs of disrepair.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 237864,
+        "question": "What appears to be the relationship between the elephant and the dog in the image?",
+        "url": "http://images.cocodataset.org/val2017/000000237864.jpg",
+        "model_answer": "The elephant and the dog appear to be in a playful chase, with the dog likely initiating the interaction and the elephant responding with a gentle pursuit.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 181753,
+        "question": "Is the room depicted in the image a part of a home or a commercial space?",
+        "url": "http://images.cocodataset.org/val2017/000000181753.jpg",
+        "model_answer": "The room depicted in the image appears to be a part of a home.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 252219,
+        "question": "What is the location of the city where the scene is taking place?",
+        "url": "http://images.cocodataset.org/val2017/000000252219.jpg",
+        "model_answer": "The scene is taking place in New York City, specifically in Manhattan.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 108440,
+        "question": "What type of cargo or passengers does the train appear to be carrying?",
+        "url": "http://images.cocodataset.org/val2017/000000108440.jpg",
+        "model_answer": "The train appears to be carrying no cargo or passengers.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 224337,
+        "question": "What appears to be the expression or emotion on the man's face as he holds the piece of bread in his mouth?",
+        "url": "http://images.cocodataset.org/val2017/000000224337.jpg",
+        "model_answer": "The man's expression appears to be one of boredom or disinterest, as he holds the piece of bread in his mouth.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 499109,
+        "question": "What is the type of cuisine or meal that this sandwich is typically associated with?",
+        "url": "http://images.cocodataset.org/val2017/000000499109.jpg",
+        "model_answer": "The sandwich is typically associated with American cuisine, specifically a club sandwich.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 28285,
+        "question": "What is the name or significance of the building with the clock tower?",
+        "url": "http://images.cocodataset.org/val2017/000000028285.jpg",
+        "model_answer": "The image does not provide enough information to identify the name or significance of the building with the clock tower.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 454750,
+        "question": "What appears to be the reason or context for the zebras' unusual head-resting behavior?",
+        "url": "http://images.cocodataset.org/val2017/000000454750.jpg",
+        "model_answer": "The zebras appear to be in a field, and the one on the left is resting its head on the other's back, possibly indicating a moment of relaxation or affection between the two animals.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 412240,
+        "question": "What is the puppy's apparent interest in the pair of shoes?",
+        "url": "http://images.cocodataset.org/val2017/000000412240.jpg",
+        "model_answer": "The puppy is sitting on a pair of shoes, indicating that it may be interested in them as a place to rest or play.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 441286,
+        "question": "What sport or activity is the person participating in?",
+        "url": "http://images.cocodataset.org/val2017/000000441286.jpg",
+        "model_answer": "The person is participating in surfing.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 568213,
+        "question": "Is the man playing with someone else in the field or by himself?",
+        "url": "http://images.cocodataset.org/val2017/000000568213.jpg",
+        "model_answer": "The man is playing with someone else in the field.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 414034,
+        "question": "What is the little boy watching on the TV?",
+        "url": "http://images.cocodataset.org/val2017/000000414034.jpg",
+        "model_answer": "The image is not meant to be used for reading text in the image.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 459634,
+        "question": "What type of vehicle is it likely to be, based on the presence of a metal rack and an antennae?",
+        "url": "http://images.cocodataset.org/val2017/000000459634.jpg",
+        "model_answer": "It is likely to be a motorcycle.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 66635,
+        "question": "Is the person using the computer present in the image?",
+        "url": "http://images.cocodataset.org/val2017/000000066635.jpg",
+        "model_answer": "The person using the computer is not visible in the image.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 343706,
+        "question": "What pattern or design is used in the crocheted phone case?",
+        "url": "http://images.cocodataset.org/val2017/000000343706.jpg",
+        "model_answer": "The crocheted phone case features a colorful fishnet pattern.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 357238,
+        "question": "What is the weather like in the background while the person is flying the kite?",
+        "url": "http://images.cocodataset.org/val2017/000000357238.jpg",
+        "model_answer": "The weather is partly cloudy with a light blue sky.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 553664,
+        "question": "Is the laptop turned on or off in the image?",
+        "url": "http://images.cocodataset.org/val2017/000000553664.jpg",
+        "model_answer": "The laptop is turned off in the image.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 258388,
+        "question": "Is the man lighting the spray can trying to set the skateboarder on fire or is it part of a stunt or trick?",
+        "url": "http://images.cocodataset.org/val2017/000000258388.jpg",
+        "model_answer": "The man is not trying to set the skateboarder on fire, but rather, he is part of a stunt or trick.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 222094,
+        "question": "Why is a stop sign placed in a seemingly remote and rocky field?",
+        "url": "http://images.cocodataset.org/val2017/000000222094.jpg",
+        "model_answer": "The stop sign is placed in a seemingly remote and rocky field to alert drivers to the presence of a road or intersection, ensuring their safety and the safety of others.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 281179,
+        "question": "Is the street in a city or a small town?",
+        "url": "http://images.cocodataset.org/val2017/000000281179.jpg",
+        "model_answer": "The street appears to be in a small town, as evidenced by the lack of tall buildings and the presence of a Christmas tree, which is often a feature of smaller towns.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 260106,
+        "question": "What appears to be the occasion or event that is taking place in the background?",
+        "url": "http://images.cocodataset.org/val2017/000000260106.jpg",
+        "model_answer": "The occasion or event that is taking place in the background appears to be a horse jumping competition.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 162543,
+        "question": "What type of enclosure or habitat is provided for the elephants in the zoo?",
+        "url": "http://images.cocodataset.org/val2017/000000162543.jpg",
+        "model_answer": "The elephants are kept in a fenced enclosure.",
+        "faithfulness": 0,
+        "relevancy": 1
+    },
+    {
+        "id": 366199,
+        "question": "Is the small cat sleeping under the blankets?",
+        "url": "http://images.cocodataset.org/val2017/000000366199.jpg",
+        "model_answer": "The cat is not sleeping, it is looking at the camera.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 329323,
+        "question": "What is the item being unwrapped?",
+        "url": "http://images.cocodataset.org/val2017/000000329323.jpg",
+        "model_answer": "The item being unwrapped is a body.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 157601,
+        "question": "What type of drink is the woman having with her sandwich?",
+        "url": "http://images.cocodataset.org/val2017/000000157601.jpg",
+        "model_answer": "The woman is having a hot drink with her sandwich.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 447314,
+        "question": "What is the relationship between the woman and the young child?",
+        "url": "http://images.cocodataset.org/val2017/000000447314.jpg",
+        "model_answer": "The woman is the mother of the young child.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 489764,
+        "question": "Are they competing against each other in the video game?",
+        "url": "http://images.cocodataset.org/val2017/000000489764.jpg",
+        "model_answer": "It appears they are competing against each other in the video game.",
+        "faithfulness": 0,
+        "relevancy": 1
+    },
+    {
+        "id": 1818,
+        "question": "What is the environment or setting where the baby zebra is nursing from its mother?",
+        "url": "http://images.cocodataset.org/val2017/000000001818.jpg",
+        "model_answer": "The baby zebra is nursing from its mother in a grassy field.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 368982,
+        "question": "What appears to be the person's intention or activity with the scissors and fabric?",
+        "url": "http://images.cocodataset.org/val2017/000000368982.jpg",
+        "model_answer": "The person appears to be crafting or sewing, as indicated by the presence of scissors and fabric.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 550349,
+        "question": "What appears to be the destination or purpose of the orange bus?",
+        "url": "http://images.cocodataset.org/val2017/000000550349.jpg",
+        "model_answer": "The bus is headed to Burbank Station.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 112110,
+        "question": "What is the person doing with the briefcase, or is it just an obstacle?",
+        "url": "http://images.cocodataset.org/val2017/000000112110.jpg",
+        "model_answer": "The person is standing on the briefcase.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 532129,
+        "question": "What toppings can be seen on the pizza?",
+        "url": "http://images.cocodataset.org/val2017/000000532129.jpg",
+        "model_answer": "The pizza has cheese as its topping.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 220732,
+        "question": "Is the bus empty or are there passengers inside?",
+        "url": "http://images.cocodataset.org/val2017/000000220732.jpg",
+        "model_answer": "There is an image of a woman inside the bus.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 275749,
+        "question": "What activity or task appears to be the focus of the group of people around the computer monitors?",
+        "url": "http://images.cocodataset.org/val2017/000000275749.jpg",
+        "model_answer": "The group of people around the computer monitors appears to be engaged in a party or social gathering, rather than focusing on a specific activity or task related to the computers.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 176778,
+        "question": "What is the cat doing next to the bathtub?",
+        "url": "http://images.cocodataset.org/val2017/000000176778.jpg",
+        "model_answer": "The cat is drinking water from the bathtub.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 407083,
+        "question": "Is the car moving or parked?",
+        "url": "http://images.cocodataset.org/val2017/000000407083.jpg",
+        "model_answer": "The car is moving.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 215723,
+        "question": "What are the workers doing under the fluorescent orange umbrella?",
+        "url": "http://images.cocodataset.org/val2017/000000215723.jpg",
+        "model_answer": "The workers under the fluorescent orange umbrella appear to be discussing something, possibly related to their work or a project they are undertaking.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 509719,
+        "question": "What type of bird is it and is it injured or just resting on the ground?",
+        "url": "http://images.cocodataset.org/val2017/000000509719.jpg",
+        "model_answer": "The bird in the image appears to be a young peacock, and it seems to be resting on the ground rather than being injured.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 3845,
+        "question": "What type of meal or cuisine is on the plate?",
+        "url": "http://images.cocodataset.org/val2017/000000003845.jpg",
+        "model_answer": "The meal on the plate is stir-fried vegetables and chicken with rice, which appears to be a Chinese dish.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 2153,
+        "question": "Is the male tennis player preparing to serve or waiting for the opponent's serve?",
+        "url": "http://images.cocodataset.org/val2017/000000002153.jpg",
+        "model_answer": "The image does not depict a tennis player. The image shows a baseball player preparing to bat, not a tennis player.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 541773,
+        "question": "What appears to be the occasion or event with multiple glasses of wine on the table?",
+        "url": "http://images.cocodataset.org/val2017/000000541773.jpg",
+        "model_answer": "The occasion appears to be a casual gathering or dinner party, as indicated by the presence of multiple glasses of wine on the table.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 161128,
+        "question": "What is the original intended message or warning on the traffic sign before it was vandalized?",
+        "url": "http://images.cocodataset.org/val2017/000000161128.jpg",
+        "model_answer": "The original intended message or warning on the traffic sign before it was vandalized was likely \"No Horns\".",
+        "faithfulness": 0,
+        "relevancy": 1
+    },
+    {
+        "id": 186938,
+        "question": "What type of bird is standing in the sand?",
+        "url": "http://images.cocodataset.org/val2017/000000186938.jpg",
+        "model_answer": "The bird standing in the sand is a Snowy Plover.",
+        "faithfulness": 0,
+        "relevancy": 1
+    },
+    {
+        "id": 33759,
+        "question": "Is the boy hitting the baseball in a professional game or just practicing his swing?",
+        "url": "http://images.cocodataset.org/val2017/000000033759.jpg",
+        "model_answer": "The boy is just practicing his swing.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 309678,
+        "question": "What type of cuisine are the sauce-covered foods on the tray?",
+        "url": "http://images.cocodataset.org/val2017/000000309678.jpg",
+        "model_answer": "The cuisine is Italian.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 29397,
+        "question": "What does the sign next to the man say?",
+        "url": "http://images.cocodataset.org/val2017/000000029397.jpg",
+        "model_answer": "The sign next to the man says, \"WEINER You've Got To Be Sitting ME!!!\"",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 61471,
+        "question": "How old is the puppy in the image?",
+        "url": "http://images.cocodataset.org/val2017/000000061471.jpg",
+        "model_answer": "The age of the puppy is uncertain, although it appears to be a young puppy, likely between 3 and 6 months old, based on its size and physical characteristics.",
+        "faithfulness": 0,
+        "relevancy": 1
+    },
+    {
+        "id": 7888,
+        "question": "Is the pedestal clock located indoors or outdoors in the rainy sky?",
+        "url": "http://images.cocodataset.org/val2017/000000007888.jpg",
+        "model_answer": "The pedestal clock is located outdoors in the rainy sky.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 161642,
+        "question": "What style or era is the clock from?",
+        "url": "http://images.cocodataset.org/val2017/000000161642.jpg",
+        "model_answer": "The clock is from the 2013 era.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 127517,
+        "question": "Is the location in the caption a popular surfing spot?",
+        "url": "http://images.cocodataset.org/val2017/000000127517.jpg",
+        "model_answer": "The image does not contain a location in the caption, so it is not possible to determine if it is a popular surfing spot.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 217614,
+        "question": "What appears to be the giraffe's activity or behavior in the brush near the trees?",
+        "url": "http://images.cocodataset.org/val2017/000000217614.jpg",
+        "model_answer": "The giraffe appears to be standing still, possibly surveying its surroundings or resting.",
+        "faithfulness": 1,
+        "relevancy": 0
+    },
+    {
+        "id": 137950,
+        "question": "What type of plane is depicted in the old photograph?",
+        "url": "http://images.cocodataset.org/val2017/000000137950.jpg",
+        "model_answer": "The plane depicted in the old photograph is a Douglas DC-2.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 186345,
+        "question": "Are the sea horses in their natural habitat or in a controlled environment, such as an aquarium?",
+        "url": "http://images.cocodataset.org/val2017/000000186345.jpg",
+        "model_answer": "The sea horses in the image are in a controlled environment, such as an aquarium.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 573258,
+        "question": "Is the woman actively skiing or standing still in the image?",
+        "url": "http://images.cocodataset.org/val2017/000000573258.jpg",
+        "model_answer": "The woman is standing still in the image.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 400082,
+        "question": "Are the boxes of takeout food being eaten by someone, or are they unattended?",
+        "url": "http://images.cocodataset.org/val2017/000000400082.jpg",
+        "model_answer": "The boxes of takeout food appear to be unattended.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 537241,
+        "question": "Is the cinnamon roll homemade or store-bought?",
+        "url": "http://images.cocodataset.org/val2017/000000537241.jpg",
+        "model_answer": "It is unclear whether the cinnamon roll is homemade or store-bought.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 103723,
+        "question": "What is the woman's expression or reaction as she watches the elephant?",
+        "url": "http://images.cocodataset.org/val2017/000000103723.jpg",
+        "model_answer": "The woman's expression is not visible, as the photo is taken from behind her.",
+        "faithfulness": 1,
+        "relevancy": 1
+    },
+    {
+        "id": 350122,
+        "question": "What city or country is the bus station located in?",
+        "url": "http://images.cocodataset.org/val2017/000000350122.jpg",
+        "model_answer": "The bus station is located in Germany.",
+        "faithfulness": 0,
+        "relevancy": 0
+    },
+    {
+        "id": 293474,
+        "question": "What is the type of storefront visible in the background near the fire hydrant?",
+        "url": "http://images.cocodataset.org/val2017/000000293474.jpg",
+        "model_answer": "The storefront visible in the background near the fire hydrant is a used bookstore.",
+        "faithfulness": 0,
+        "relevancy": 1
+    }
+]
