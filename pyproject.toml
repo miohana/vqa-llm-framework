@@ -32,3 +32,6 @@ dev = [
     "langchain-groq>=0.2.1",
     "langchain-openai>=0.2.6",
 ]
+
+[tool.pdm.scripts]
+_.env_file.override = ".env"
