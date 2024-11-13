@@ -30,7 +30,7 @@ Requirements:
  - In case of using Hugging Face models (e.g. PaliGemma), remember to set the HF_TOKEN (currently, we are expecting you to setup in our code).
 
 ## Setup
-Run the command:
+Run the command to install production and development dependencies:
 ```bash
-pdm sync --dev
+pdm sync
 ```
