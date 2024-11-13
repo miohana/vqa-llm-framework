@@ -1,0 +1,61 @@
+id,question,url,model_answer,model_name
+293832,How many toothbrushes are there?,http://images.cocodataset.org/val2014/COCO_val2014_000000293832.jpg,6,paligemma
+129592,Is this a typical US hydrant?,http://images.cocodataset.org/val2014/COCO_val2014_000000129592.jpg,yes,paligemma
+13729,What color is her hair?,http://images.cocodataset.org/val2014/COCO_val2014_000000013729.jpg,brown,paligemma
+379086,Are the lights on?,http://images.cocodataset.org/val2014/COCO_val2014_000000379086.jpg,yes,paligemma
+96618,Does the dog like outside?,http://images.cocodataset.org/val2014/COCO_val2014_000000096618.jpg,yes,paligemma
+28682,Is there a fruit basket on the counter?,http://images.cocodataset.org/val2014/COCO_val2014_000000028682.jpg,no,paligemma
+137727,What is being loaded onto the train?,http://images.cocodataset.org/val2014/COCO_val2014_000000137727.jpg,luggage,paligemma
+381842,Does the name of the street relate to Greek pleasure?,http://images.cocodataset.org/val2014/COCO_val2014_000000381842.jpg,no,paligemma
+449522,What are the people eating?,http://images.cocodataset.org/val2014/COCO_val2014_000000449522.jpg,sandwich,paligemma
+304186,What color is the game controller?,http://images.cocodataset.org/val2014/COCO_val2014_000000304186.jpg,white,paligemma
+458467,What are the animals eating?,http://images.cocodataset.org/val2014/COCO_val2014_000000458467.jpg,leaves,paligemma
+503978,Can a vegan eat this food?,http://images.cocodataset.org/val2014/COCO_val2014_000000503978.jpg,yes,paligemma
+121849,Is the child using the bathroom?,http://images.cocodataset.org/val2014/COCO_val2014_000000121849.jpg,no,paligemma
+499281,Where is microwave?,http://images.cocodataset.org/val2014/COCO_val2014_000000499281.jpg,above stove,paligemma
+155897,Is a healthy food?,http://images.cocodataset.org/val2014/COCO_val2014_000000155897.jpg,yes,paligemma
+180739,How tall is the wave?,http://images.cocodataset.org/val2014/COCO_val2014_000000180739.jpg,short,paligemma
+57760,Do you see any motorized vehicles?,http://images.cocodataset.org/val2014/COCO_val2014_000000057760.jpg,no,paligemma
+422383,Is there water in this photo?,http://images.cocodataset.org/val2014/COCO_val2014_000000422383.jpg,no,paligemma
+425898,What phone number is on the sign?,http://images.cocodataset.org/val2014/COCO_val2014_000000425898.jpg,765-4201,paligemma
+74037,What are on the heads?,http://images.cocodataset.org/val2014/COCO_val2014_000000074037.jpg,horns,paligemma
+342100,Are there any baby horses?,http://images.cocodataset.org/val2014/COCO_val2014_000000342100.jpg,yes,paligemma
+404462,What is reflecting in the mirror?,http://images.cocodataset.org/val2014/COCO_val2014_000000404462.jpg,wall,paligemma
+131152,Are these people wet?,http://images.cocodataset.org/val2014/COCO_val2014_000000131152.jpg,yes,paligemma
+363241,Should the child eat what is in the pan?,http://images.cocodataset.org/val2014/COCO_val2014_000000363241.jpg,yes,paligemma
+436865,Are his spots black?,http://images.cocodataset.org/val2014/COCO_val2014_000000436865.jpg,yes,paligemma
+438269,Is this bird running?,http://images.cocodataset.org/val2014/COCO_val2014_000000438269.jpg,no,paligemma
+180521,What color hair does the girl in the red shirt have?,http://images.cocodataset.org/val2014/COCO_val2014_000000180521.jpg,blonde,paligemma
+228344,What color shirt is the person wearing?,http://images.cocodataset.org/val2014/COCO_val2014_000000228344.jpg,blue,paligemma
+341678,How many balls are on the racket the boy is holding?,http://images.cocodataset.org/val2014/COCO_val2014_000000341678.jpg,1,paligemma
+525369,Do you see a giant teddy bear?,http://images.cocodataset.org/val2014/COCO_val2014_000000525369.jpg,no,paligemma
+207611,How many blue umbrellas are in the background?,http://images.cocodataset.org/val2014/COCO_val2014_000000207611.jpg,2,paligemma
+299970,What does the sign say?,http://images.cocodataset.org/val2014/COCO_val2014_000000299970.jpg,parking,paligemma
+236925,How many hooves are visible?,http://images.cocodataset.org/val2014/COCO_val2014_000000236925.jpg,4,paligemma
+341309,Can the woman tell the time?,http://images.cocodataset.org/val2014/COCO_val2014_000000341309.jpg,yes,paligemma
+437117,What color is the line on the tennis court?,http://images.cocodataset.org/val2014/COCO_val2014_000000437117.jpg,white,paligemma
+212739,Is the guy on flat ground?,http://images.cocodataset.org/val2014/COCO_val2014_000000212739.jpg,no,paligemma
+83736,What kind of vehicle is this?,http://images.cocodataset.org/val2014/COCO_val2014_000000083736.jpg,bus,paligemma
+512869,What utensil is on the woman's napkin?,http://images.cocodataset.org/val2014/COCO_val2014_000000512869.jpg,fork,paligemma
+168583,"Based on the clothing of the people, which season was it when this picture was taken?",http://images.cocodataset.org/val2014/COCO_val2014_000000168583.jpg,winter,paligemma
+451308,What items does this person collect?,http://images.cocodataset.org/val2014/COCO_val2014_000000451308.jpg,suitcases,paligemma
+432234,How many stuffed toys are pictured?,http://images.cocodataset.org/val2014/COCO_val2014_000000432234.jpg,2,paligemma
+485909,Are these people happy?,http://images.cocodataset.org/val2014/COCO_val2014_000000485909.jpg,no,paligemma
+556758,Where are the horse standing?,http://images.cocodataset.org/val2014/COCO_val2014_000000556758.jpg,field,paligemma
+274272,What is on the bus?,http://images.cocodataset.org/val2014/COCO_val2014_000000274272.jpg,prepay only,paligemma
+408039,Who is standing in the picture?,http://images.cocodataset.org/val2014/COCO_val2014_000000408039.jpg,boy,paligemma
+90640,Is this a recent picture?,http://images.cocodataset.org/val2014/COCO_val2014_000000090640.jpg,no,paligemma
+388770,Is the sky overcast?,http://images.cocodataset.org/val2014/COCO_val2014_000000388770.jpg,yes,paligemma
+48739,Who has the camera?,http://images.cocodataset.org/val2014/COCO_val2014_000000048739.jpg,man,paligemma
+287570,What color is the skier's jacket?,http://images.cocodataset.org/val2014/COCO_val2014_000000287570.jpg,pink,paligemma
+75426,What is drawn on the paper?,http://images.cocodataset.org/val2014/COCO_val2014_000000075426.jpg,arrow,paligemma
+533311,What color is the street light?,http://images.cocodataset.org/val2014/COCO_val2014_000000533311.jpg,red,paligemma
+203372,Who is holding a sign?,http://images.cocodataset.org/val2014/COCO_val2014_000000203372.jpg,man,paligemma
+172979,Is the grass tall?,http://images.cocodataset.org/val2014/COCO_val2014_000000172979.jpg,no,paligemma
+90284,What is the color of the pitch?,http://images.cocodataset.org/val2014/COCO_val2014_000000090284.jpg,brown,paligemma
+547630,Where is the spoon?,http://images.cocodataset.org/val2014/COCO_val2014_000000547630.jpg,saucer,paligemma
+77924,What is the license plate number of the car in front?,http://images.cocodataset.org/val2014/COCO_val2014_000000077924.jpg,fx 1778,paligemma
+529528,What do you think was being mixed?,http://images.cocodataset.org/val2014/COCO_val2014_000000529528.jpg,dough,paligemma
+80053,How many people are there?,http://images.cocodataset.org/val2014/COCO_val2014_000000080053.jpg,2,paligemma
+550529,What color is the stripe on the bike?,http://images.cocodataset.org/val2014/COCO_val2014_000000550529.jpg,red,paligemma
+123017,Is it taken in Winter?,http://images.cocodataset.org/val2014/COCO_val2014_000000123017.jpg,no,paligemma
