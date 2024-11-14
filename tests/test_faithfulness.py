@@ -1,5 +1,5 @@
 from langchain_core.language_models import FakeListLLM, FakeListChatModel
-from src.vragas.metrics import FaithfulnessScore, FaithfulnessMetric
+from vragas.metrics import FaithfulnessScore, FaithfulnessMetric
 
 
 def test_faithfulness_score_with_llm():

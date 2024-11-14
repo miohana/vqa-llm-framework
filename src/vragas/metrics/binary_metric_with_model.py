@@ -6,7 +6,7 @@ from transformers import AutoProcessor, PaliGemmaForConditionalGeneration
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
 from typing import Dict, Any
-from base import MetricWithReduction
+from .base import MetricWithReduction
 
 
 class BinaryMetricWithModel(MetricWithReduction):

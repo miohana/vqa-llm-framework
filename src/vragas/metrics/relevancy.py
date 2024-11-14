@@ -1,4 +1,4 @@
-from binary_metric_with_model import BinaryMetricWithModel
+from .binary_metric_with_model import BinaryMetricWithModel
 
 class RelevancyMetric(BinaryMetricWithModel):
     """Metric to evaluate relevancy."""
