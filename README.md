@@ -1,6 +1,8 @@
 # VQA Evaluation Beyond Accuracy: Leveraging Language Models for Semantic Assessment
 We propose the creation of a framework that utilizes advanced language models to act as judges in the automatic evaluation of these tasks, offering a richer and more flexible perspective for this assessment. The framework aims to handle subtle variations in meaning that may be overlooked in traditional evaluations.
 
+<img width="1200" alt="High Level Diagram" src="https://github.com/user-attachments/assets/66f99bf4-2e12-44b7-a1ab-e0e14ebbc4a9">
+
 
 # Package
 
