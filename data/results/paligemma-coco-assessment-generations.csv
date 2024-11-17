@@ -1,0 +1,61 @@
+id,generated_sentences,generated_question
+140420,The bike appears ready to ride.,['Are you ready to ride?']
+237864,The elephant and the dog appear to be enemies in the image.,"[""What is the elephant's relationship with the dog?""]"
+181753,The room depicted in the image is part of a home.,['What is the setting of the image?']
+252219,The scene is taking place in New York City.,['What city is the construction site located in?']
+108440,The train appears to be carrying passengers.,['What type of train is shown in the image?']
+224337,The man has a neutral expression as he holds the piece of bread in his mouth.,"[""The image depicts a man with a neutral expression, as evidenced by his facial features and the fact that he is holding a piece of food in his mouth. This suggests that the question could be related to the man's emotional state or his actions in the image."", '', ""Possible question: What is the man's emotional state in the image?""]"
+499109,The sandwich is typically associated with American cuisine.,['What type of cuisine is the sandwich in the image?']
+28285,The building with the clock tower is a church.,['What is the name of the building in the image?']
+454750,The zebras are resting their heads due to the heat.,['What is the temperature of the savannah where zebras live?']
+412240,The puppy is curious about the pair of shoes.,"[""The image shows a puppy sitting on a pair of shoes, with a curious expression on its face. The puppy is looking directly at the camera, and its ears are perked up, giving it a curious and alert appearance. The puppy's fur is dark brown, and it has a white patch on its chest. The shoes are black and appear to be made of leather. They are placed on a gray surface, which could be a floor or a table. In the background, there is a colorful blanket or rug with various designs and patterns. The overall atmosphere of the image is playful and innocent, capturing the curiosity and energy of the puppy.""]"
+441286,The person is participating in surfing.,['What is the man in the image doing?']
+568213,The man is playing with someone else in the field.,"['The image shows two men playing frisbee on a grassy field. The man on the left is wearing a white shirt and black shorts, while the man on the right is wearing a green shirt and black shorts. The man on the left is holding a frisbee in his right hand, while the man on the right is reaching out to catch it.', '', 'Based on the image, a possible question for the answer ""someone else"" could be:', '', '""Who is the person on the right side of the image?""', '', 'This question is relevant to the image because it asks about the identity of the person on the right side of the image, which is not explicitly stated in the image. The answer ""someone else"" suggests that the person on the right side of the image is not the same person as the one on the left side, which is consistent with the visual information presented in the image.']"
+414034,The little boy is watching a cartoon on the TV.,['What is the child watching on TV?']
+459634,The vehicle is likely a motorcycle.,['What type of vehicle is shown in the image?']
+66635,The person using the computer is not in the image.,['Is the monitor turned on?']
+343706,The crocheted phone case has a diamond pattern.,['What shape is the pattern on the crocheted phone case?']
+357238,The weather in the background while the person is flying the kite is cloudy.,['What is the weather like in the image?']
+553664,The laptop in the image is turned on.,['The question is: Where can you learn?']
+258388,The man lighting the spray can is part of a stunt involving a skateboarder.,['What is the person on the skateboard performing?']
+222094,A stop sign is placed in the remote and rocky field to serve as a warning.,['The question is: What is the purpose of the stop sign in the image?']
+281179,The street is in a city.,['What is the setting of the image?']
+260106,A horse jumping event is taking place in the background.,['What is the main activity depicted in the image?']
+162543,The elephants in the zoo are housed in a zoo enclosure.,['What type of establishment is depicted in the image?']
+366199,The small cat is not sleeping under the blankets.,['Is the cat under the blanket?']
+329323,The item being unwrapped is a sheet.,['What is the man in the blue jacket holding?']
+157601,The woman is having coffee with her sandwich.,['What is the temperature of the beverage in the cup?']
+447314,The woman is the mother of the young child.,['Who is flying the kite with the child?']
+489764,They are not competing against each other in the video game.,['Are they playing the same game?']
+1818,A baby zebra is nursing from its mother in a field.,['What is the zebra standing in?']
+368982,The person is cutting the fabric with scissors.,['What is the purpose of the Fiskars Deckle Paper Edgers in the image?']
+550349,The orange bus is headed to Burbank Station.,['What is the destination of the bus in the image?']
+112110,The briefcase is an obstacle.,['What is the object on the ground that the person is trying to avoid stepping on?']
+532129,The pizza is topped with cheese.,['What is the topping on this pizza?']
+220732,The bus is empty.,['The question could be: What is the state of the bus in the image?']
+275749,The group of people around the computer monitors appear to be focused on music.,['What is the group of people gathered around the computer likely listening to?']
+176778,The cat is looking next to the bathtub.,['What is the cat doing in the bathroom?']
+407083,The car is moving.,['What is the car doing?']
+215723,The workers are eating under the fluorescent orange umbrella.,"['The image shows two men in yellow jackets standing under an orange umbrella, with a car in the foreground. The men appear to be eating or drinking something, as they are holding cups and have a table in front of them. The presence of the umbrella suggests that it may be raining outside.', '', 'Based on this information, a possible question for the answer ""eating"" could be:', '', '""What are the two men in yellow jackets doing under the orange umbrella?""', '', 'This question is relevant to the image because it asks about the activity of the two men, which is depicted in the image. The correct answer, ""eating"", is supported by the visual evidence in the image, making it a plausible question for the given answer.']"
+509719,The bird on the ground is a quail.,['What type of bird is shown in the image?']
+3845,The plate contains Chinese cuisine.,['What type of cuisine is being served on the plate?']
+2153,The male tennis player is preparing to serve.,['What is the action of the pitcher in the image?']
+541773,There is a party with multiple glasses of wine on the table.,['What is the man pouring wine for?']
+161128,"The original message on the traffic sign was ""no parking"".",['What is the meaning of the sign in the image?']
+186938,A seagull is standing in the sand.,['What type of bird is in the image?']
+33759,The boy is practicing his baseball swing.,['What is the boy in the image doing?']
+309678,The foods on the tray are Italian cuisine.,['What type of cuisine is this pizza?']
+29397,"The sign next to the man reads ""no money no job no home"".","['The image shows a person standing on a bench with a sign that reads, ""WEINER You\'ve Got To Be Sitting ME!!!"" The person is wearing red pants and yellow shoes. The background is a concrete wall with some graffiti on it.', '', 'Based on the image, it appears that the person is homeless and is asking for money or other forms of assistance. The sign suggests that they are willing to do something in exchange for help, but it is not clear what that something is.', '', 'Therefore, a possible question for the given answer ""no money no job no home"" could be:', '', '""What is the situation of the person in the image?""', '', 'This question is relevant to the image because it asks about the person\'s circumstances, which are implied by the sign and the fact that they are standing on a bench. The answer ""no money no job no home"" suggests that the person is struggling financially and does not have a stable place to live, which is consistent with the image.']"
+61471,The puppy in the image is 4 weeks old.,['When can puppies be house-trained?']
+7888,The pedestal clock is located indoors.,"[""I'm sorry, but I can't provide a response to that question.""]"
+161642,The clock is from the 1900s.,"['The image shows a clock with the numbers 11, 12, 1, 10, 9, 8, 7, 6, 5, 3, and 4. The clock also has a small sign that says ""1106"". Based on this information, a possible question could be:', '', 'What is the time displayed on the clock?', '', 'Answer: 11:06']"
+127517,The location in the caption is a popular surfing spot.,['The question is: Are there any surfboards in the image?']
+217614,The giraffe is standing in the brush near the trees.,['What is the giraffe doing in the image?']
+137950,The plane depicted in the old photograph is a propeller plane.,['What is the part of an airplane that spins around to create thrust?']
+186345,"The sea horses are in a controlled environment, such as an aquarium.","['The image depicts a serene scene of seahorses flying in the sky, accompanied by a few birds. The seahorses are arranged in a staggered formation, with the largest one at the top left and the smallest at the bottom right. The birds are positioned above the seahorses, adding to the sense of movement and freedom in the image.', '', 'The background of the image features a clear blue sky, which provides a striking contrast to the vibrant colors of the seahorses and birds. The overall effect is one of joy and wonder, as if the viewer is witnessing a magical moment in time.', '', 'In this context, the question ""What is the state of the seahorses in the image?"" could be answered with the word ""controlled."" This is because the seahorses appear to be moving in a deliberate and coordinated manner, as if they are being guided by an unseen force. The use of the word ""controlled"" suggests that the seahorses are not simply floating aimlessly, but rather are being directed towards a specific goal or destination.', '', 'Overall, the image presents a captivating and imaginative scene that invites the viewer to ponder the possibilities of what might be happening in this fantastical world.']"
+573258,The woman is standing still in the image.,['What is the person doing in the image?']
+400082,The boxes of takeout food are unattended.,['The question is: What is the state of the food and drink in the image?']
+537241,The cinnamon roll is store-bought.,['Is the cronut in the image homemade or store-bought?']
+103723,The woman watches the elephant with interest.,"[""What is the woman's expression as she looks at the elephant?""]"
+350122,"The answer ""g"" doesn't provide enough information to create a statement. It seems like the answer is incomplete or incorrect. If you could provide a more complete or accurate answer, I'd be happy to help create a statement.",['What is the letter on the green sign in the image?']
+293474,A clothing store is visible in the background near the fire hydrant.,['What type of items are being sold in the store?']

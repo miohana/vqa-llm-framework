@@ -1,0 +1,114 @@
+{
+  "paligemma-vqa": {
+    "faithfulness": {
+      "em_pearson": 0.6041162138822529,
+      "em_spearman": 0.4963171613530739,
+      "sm_pearson": 0.6571520774535257,
+      "sm_spearman": 0.48954566760623647,
+      "f1_pearson": 0.6678068994893014,
+      "f1_spearman": 0.5038173708380315,
+      "faithfulness_score_pearson": -0.28952135527178124,
+      "faithfulness_score_spearman": -0.35180279324468644,
+      "answer_relevancy_score_pearson": -0.030786235930925426,
+      "answer_relevancy_score_spearman": -0.019308219030361472,
+      "binary_faithfulness_pearson": 0.4107200484084534,
+      "binary_faithfulness_spearman": 0.32650493920796575,
+      "binary_relevancy_pearson": 0.45179205324929894,
+      "binary_relevancy_spearman": 0.40146132603002793
+    },
+    "relevancy": {
+      "em_pearson": -0.01304770665579278,
+      "em_spearman": -0.04107016679717385,
+      "sm_pearson": -0.024948941567070566,
+      "sm_spearman": -0.05817155053480555,
+      "f1_pearson": -0.0001609743144610999,
+      "f1_spearman": -0.03947940649824496,
+      "faithfulness_score_pearson": 0.20074920645229874,
+      "faithfulness_score_spearman": 0.20007179180290793,
+      "answer_relevancy_score_pearson": 0.3587521600430755,
+      "answer_relevancy_score_spearman": 0.35139965735422235,
+      "binary_faithfulness_pearson": 0.14969364940242363,
+      "binary_faithfulness_spearman": 0.13711865483204164,
+      "binary_relevancy_pearson": 0.23285678795932557,
+      "binary_relevancy_spearman": 0.22562251385999582
+    }
+  },
+  "paligemma-coco": {
+    "faithfulness": {
+      "faithfulness_score_pearson": 0.1906827055216985,
+      "faithfulness_score_spearman": 0.050942170494558583,
+      "answer_relevancy_score_pearson": 0.17730149500277845,
+      "answer_relevancy_score_spearman": 0.1602886287302835,
+      "binary_faithfulness_pearson": 0.6135973000039491,
+      "binary_faithfulness_spearman": 0.6222905246142203,
+      "binary_relevancy_pearson": 0.6135973000039491,
+      "binary_relevancy_spearman": 0.6222905246142203
+    },
+    "relevancy": {
+      "faithfulness_score_pearson": 0.1876940626479118,
+      "faithfulness_score_spearman": 0.16031191561547042,
+      "answer_relevancy_score_pearson": 0.16483149388224808,
+      "answer_relevancy_score_spearman": 0.1119485511702718,
+      "binary_faithfulness_pearson": 0.389731813619067,
+      "binary_faithfulness_spearman": 0.369106000611634,
+      "binary_relevancy_pearson": 0.4660874342464761,
+      "binary_relevancy_spearman": 0.4558957899446398
+    }
+  },
+  "llama-vqa": {
+    "faithfulness": {
+      "em_pearson": NaN,
+      "em_spearman": NaN,
+      "sm_pearson": 0.499023277595716,
+      "sm_spearman": 0.4207852586713805,
+      "f1_pearson": 0.35821367094551787,
+      "f1_spearman": 0.3560475887595559,
+      "faithfulness_score_pearson": 0.11528279830868583,
+      "faithfulness_score_spearman": 0.14665097332726973,
+      "answer_relevancy_score_pearson": -0.0031192785632635283,
+      "answer_relevancy_score_spearman": 0.042562392029269515,
+      "binary_faithfulness_pearson": 0.3804714145854282,
+      "binary_faithfulness_spearman": 0.39897092703184467,
+      "binary_relevancy_pearson": 0.26481167575013703,
+      "binary_relevancy_spearman": 0.2704560644795176
+    },
+    "relevancy": {
+      "em_pearson": NaN,
+      "em_spearman": NaN,
+      "sm_pearson": 0.17443998825202378,
+      "sm_spearman": 0.13467001710248602,
+      "f1_pearson": 0.09400209390697102,
+      "f1_spearman": 0.1289326581426798,
+      "faithfulness_score_pearson": -0.07376590524971018,
+      "faithfulness_score_spearman": -0.03160560911236782,
+      "answer_relevancy_score_pearson": 0.4292903399630441,
+      "answer_relevancy_score_spearman": 0.5242018425612764,
+      "binary_faithfulness_pearson": -0.03292046131936533,
+      "binary_faithfulness_spearman": -0.0505147682465343,
+      "binary_relevancy_pearson": -0.1489341755060905,
+      "binary_relevancy_spearman": -0.22738541241293347
+    }
+  },
+  "llama-coco": {
+    "faithfulness": {
+      "faithfulness_score_pearson": 0.06955658670493133,
+      "faithfulness_score_spearman": 0.04016464899935612,
+      "answer_relevancy_score_pearson": -0.10484802285624192,
+      "answer_relevancy_score_spearman": -0.1753866338306462,
+      "binary_faithfulness_pearson": 0.21480634623574343,
+      "binary_faithfulness_spearman": 0.1915758479651302,
+      "binary_relevancy_pearson": 0.1970552917653272,
+      "binary_relevancy_spearman": 0.1358258263981771
+    },
+    "relevancy": {
+      "faithfulness_score_pearson": 0.10556957012436162,
+      "faithfulness_score_spearman": 0.17872109535208255,
+      "answer_relevancy_score_pearson": 0.19917372974101932,
+      "answer_relevancy_score_spearman": 0.12132844234675896,
+      "binary_faithfulness_pearson": 0.14390872658847284,
+      "binary_faithfulness_spearman": 0.04945459141755898,
+      "binary_relevancy_pearson": 0.25020055547532916,
+      "binary_relevancy_spearman": 0.16684045102536685
+    }
+  }
+}

@@ -1,0 +1,61 @@
+id,generated_sentences,generated_question
+293832,There are 6 toothbrushes.,['How many toothbrushes are in the image?']
+129592,This is a typical US hydrant.,['Is the fire hydrant in the image red?']
+13729,Her hair is brown.,['What is the color of the table in the image?']
+379086,The lights are on.,"['The image depicts a city street at night, with a bus and cars moving along the road. The scene is illuminated by streetlights, and people are walking on the sidewalk. In the background, tall buildings can be seen.', '', 'Given the OCR output of ""13"", a possible question that could be asked based on this image is:', '', '""Is the number 13 visible in the image?""', '', 'Answer: Yes']"
+96618,The dog likes being outside.,['Is the dog looking out the door?']
+28682,There is no fruit basket on the counter.,['The question is: Are there any visible objects in the image?']
+137727,Luggage is being loaded onto the train.,['What is the number on the train in the image?']
+381842,The name of the street does not relate to Greek pleasure.,['What is the name of the street in the image?']
+449522,The people are eating sandwiches.,['What is the woman eating in the image?']
+304186,The game controller is white.,['What color is the Wii remote in the image?']
+458467,The animals are eating leaves.,['What do giraffes primarily eat?']
+503978,This food is suitable for a vegan diet.,['Is the pasta in the image served with vegetables?']
+121849,The child is not using the bathroom.,['Is the child on the toilet?']
+499281,The microwave is located above the stove.,['What is the location of the Whole Foods bag in the kitchen?']
+155897,The food is healthy.,['Is the person in the image eating a sandwich?']
+180739,The wave is short.,['What is the length of the surfboard?']
+57760,There are no motorized vehicles.,['Are there any people swimming in the water?']
+422383,There is no water in this photo.,['Are the kites in the image flying?']
+425898,The phone number on the sign is 765-4201.,"[""The provided answer, 765-4201, does not match the OCR result from the image. The OCR result shows the phone number 896-4247, which is associated with Elizabeth's. Therefore, a possible question for the given answer could be:"", '', ""What is the phone number of Elizabeth's?"", '', 'This question is based on the information provided in the image and the OCR result.']"
+74037,There are horns on the heads.,['What is the name of the accessory worn by the woman in the image?']
+342100,There are baby horses.,"['The image shows a group of horses in a grassy area, with one horse standing in front of the others. The horse in the foreground is a light brown color with a white stripe on its face and a dark brown mane. It appears to be a young horse, possibly a foal. The other horses in the background are also light brown in color, but they are not as clearly visible as the horse in the foreground.', '', 'Based on the image, it is likely that the question being asked is related to the date or time period depicted in the image. The OCR output ""8/26/12"" suggests that the image was taken on August 26, 2012. Therefore, a possible question for the given answer ""yes"" could be:', '', '""Was the image taken on August 26, 2012?""', '', 'This question is relevant to the image because it asks about the specific date or time period depicted in the image. The answer ""yes"" indicates that the image was indeed taken on August 26, 2012, which is consistent with the OCR output.']"
+404462,The mirror is reflecting a wall.,['What is the object on the wall in the image?']
+131152,These people are wet.,['Are the people in the image surfing?']
+363241,The child should eat what is in the pan.,['Is the woman in the image eating pizza?']
+436865,His spots are black.,['Are there giraffes in the image?']
+438269,The bird is not running.,['Is the bird in the image a flamingo?']
+180521,The girl in the red shirt has blonde hair.,['What is the hair color of the woman in the image?']
+228344,The person is wearing a blue shirt.,"[""What color is the woman's shirt in the image?""]"
+341678,The boy is holding a racket with 1 ball on it.,['How many tennis balls are in the image?']
+525369,There is no giant teddy bear.,['Is the child in the image awake?']
+207611,There are 2 blue umbrellas in the background.,"['The image shows a man standing on the street, with a busy city scene in the background. The OCR output includes the words ""SABRETT"", ""SABRET"", and ""SARRETT"", which appear to be related to a hot dog cart or stand in the background. The word ""Fifth Ave"" is also present, indicating the location of the scene.', '', 'Based on this information, a possible question for the given answer could be:', '', 'What is the name of the hot dog cart or stand visible in the background of the image?', '', 'Answer: SABRETT']"
+299970,"The sign says ""parking"".",['What is the primary purpose of the sign in the image?']
+236925,There are 4 hooves visible.,['How many legs does the zebra have?']
+341309,The woman can tell the time.,"['The image shows a man and woman holding awards, with the woman wearing a ""Special Guest"" badge and the man wearing a ""BOARD"" badge. The question could be: ""Are the people in the image holding awards and wearing badges that indicate their roles or status?""']"
+437117,The line on the tennis court is white.,['What color are the shoes of the woman playing tennis?']
+212739,The guy is not on flat ground.,['The question is: Who took the photo?']
+83736,The vehicle is a bus.,['What is the mode of transportation depicted in the image?']
+512869,A fork is on the woman's napkin.,['What is the utensil used to eat food in the image?']
+168583,The picture was taken in winter.,"['What season is the woman in the image likely experiencing, given her attire?']"
+451308,This person collects suitcases.,['What is the main object in the image?']
+432234,There are 2 stuffed toys pictured.,['How many teddy bears are in the image?']
+485909,These people are unhappy.,['Are the men in the image wearing hats?']
+556758,The horses are standing in a field.,['What is the area of land where the horses are standing?']
+274272,The bus is a prepay only bus.,['What is the payment method required for this bus route?']
+408039,A boy is standing in the picture.,"['The image shows a boy holding a Wii controller, with other people in the background. The boy is wearing a white polo shirt and blue jeans, and he appears to be playing a game on the Wii console. The other people in the background are sitting on chairs, watching the boy play.', '', 'Based on this information, a possible question for the given answer ""boy"" could be:', '', 'What is the main subject of the image?', '', 'Answer: A boy playing a game on the Wii console.']"
+90640,The picture is not recent.,['The question is: Are there any elephants in the image?']
+388770,The sky is overcast.,['Are there birds on the green structure?']
+48739,The man has the camera.,['What is the gender of the person holding the camera?']
+287570,The skier's jacket is pink.,['What color is the jacket of the skier in the foreground?']
+75426,An arrow is drawn on the paper.,['What is the direction indicated by the arrow on the sign?']
+533311,The street light is red.,['What color are the ribbons on the pole?']
+203372,A man is holding a sign.,['What is the gender of the person in the image?']
+172979,The grass is not tall.,"['The image shows a sign with arrows pointing in different directions, indicating that only certain turns are allowed. The OCR output suggests that the sign is labeled ""ONLY"" and has a series of ""F""s, which could represent the direction of the turns. Based on this information, a possible question for the given answer could be:', '', '""What type of turns are allowed at this intersection?""', '', 'The answer ""no"" would indicate that not all types of turns are allowed, and the sign is restricting certain turns.']"
+90284,The pitch is brown.,['What color is the tennis court in the image?']
+547630,The spoon is on the saucer.,['What is the object that the cup is placed on?']
+77924,The license plate number of the car in front is FX 1778.,['The question is: What is the license plate number of the car in the image?']
+529528,Dough was being mixed.,['What is the mixture in the bowl?']
+80053,There are 2 people.,"['The image shows a laptop with the letters ""Eee"" and ""TU"" on it, along with some other objects such as a mouse, papers, and a person in the background. The question could be: ""How many letters are visible on the laptop in the image?"" The answer would be 2, referring to the letters ""Eee"" and ""TU"".']"
+550529,The stripe on the bike is red.,['What color is the stripe on the motorcycle?']
+123017,The photo was not taken in Winter.,['Are the chairs in the image new?']

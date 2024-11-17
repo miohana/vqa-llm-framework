@@ -2,12 +2,13 @@ from langchain.chat_models.base import BaseChatModel
 from langchain_core.messages import SystemMessage, HumanMessage
 
 from .embeddings import EmbeddingSimilarity, EvalInput
+from ..util.image import load_image_as_base64
 
 
 def format_image_content(image_url: str) -> dict:
     return {
         "image_url": {
-            "url": image_url
+            "url": load_image_as_base64(image_url)
         },
         "type": "image_url"
     }
@@ -54,17 +55,16 @@ class AnswerRelevancyScore(EmbeddingSimilarity):
         return prompt
 
     def update(self, input: EvalInput) -> None:
-        system_message = SystemMessage(content=self._get_system_prompt())
-        human_message = HumanMessage(
-            content=[format_text_content("Answer: " + input["response"])]
+        text_content = self._get_system_prompt()
+        text_content += "\nAnswer: " + input["response"]
+        prompt = HumanMessage(
+            content=[format_text_content(text_content)]
         )
         if self.use_image_input:
-            human_message.content.append(
-                format_image_content(input["image_input"])
+            prompt.content.insert(
+                0, format_image_content(input["image_input"])
             )
-        ai_response = self.language_model.invoke(
-            [system_message, human_message]
-        )
+        ai_response = self.language_model.invoke([prompt])
         questions = ai_response.content.split("\n")
         self.generated_questions[input["id"]] = questions
 

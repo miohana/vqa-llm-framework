@@ -1,0 +1,26 @@
+{
+  "paligemma-vqa": {
+    "faithfulness": 4.25,
+    "relevancy": 2.091666666666667,
+    "normalized_faithfulness": 0.8125,
+    "normalized_relevancy": 0.27291666666666664
+  },
+  "paligemma-coco": {
+    "faithfulness": 4.016666666666667,
+    "relevancy": 2.6083333333333334,
+    "normalized_faithfulness": 0.7541666666666667,
+    "normalized_relevancy": 0.40208333333333335
+  },
+  "llama-vqa": {
+    "faithfulness": 4.416666666666667,
+    "relevancy": 4.491666666666666,
+    "normalized_faithfulness": 0.8541666666666666,
+    "normalized_relevancy": 0.8729166666666667
+  },
+  "llama-coco": {
+    "faithfulness": 4.058333333333334,
+    "relevancy": 4.433333333333334,
+    "normalized_faithfulness": 0.7645833333333333,
+    "normalized_relevancy": 0.8583333333333333
+  }
+}

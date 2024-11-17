@@ -31,7 +31,7 @@ class SoftMatch(MetricWithReduction):
 
     def _report_best(self) -> Dict[Id, float]:
         return {
-            id: max(results)
+            id: max(map(int, results))
             for id, results in self.state.items()
         }
 

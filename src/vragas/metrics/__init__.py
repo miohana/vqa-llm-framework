@@ -1,3 +1,4 @@
+from .base import Metric
 from .exact import ExactMatch
 from .soft import SoftMatch
 from .fscore import F1Score
@@ -9,6 +10,7 @@ from .collection import MetricsCollection
 
 
 __all__ = [
+    'Metric',
     'ExactMatch',
     'SoftMatch',
     'F1Score',
